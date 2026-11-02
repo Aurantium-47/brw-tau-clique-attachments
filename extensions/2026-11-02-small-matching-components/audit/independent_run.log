@@ -1,0 +1,5 @@
+PASS: n12 residual, positive sum of squares, Bell transform and four sign brackets
+PASS: all n12 nonreal chromatic zeros strictly inside BRW R_T(0)
+PASS: n15 falling-factorial residual, squarefree check, exact complex root count = 1
+PASS: n15 rational exclusion margin = 27669/10000 > 0
+PASS: independent audit complete; all checks exact, no sibling-file dependencies

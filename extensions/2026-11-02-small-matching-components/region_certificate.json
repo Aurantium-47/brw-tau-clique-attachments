@@ -1,0 +1,33 @@
+{
+  "polynomial": "x**4 - 28*x**3 + 302*x**2 - 1483*x + 2792",
+  "criterion": "Im(q)^2 < Re(q)+1/4",
+  "all_nonreal_roots_strictly_inside": true,
+  "records": [
+    {
+      "real_interval": [
+        "691/100",
+        "693/100"
+      ],
+      "positive_imag_interval": [
+        "9/10",
+        "23/25"
+      ],
+      "upper_root_count": 1,
+      "conjugate_root_count": 1,
+      "region_margin": "3946/625"
+    },
+    {
+      "real_interval": [
+        "707/100",
+        "709/100"
+      ],
+      "positive_imag_interval": [
+        "267/100",
+        "269/100"
+      ],
+      "upper_root_count": 1,
+      "conjugate_root_count": 1,
+      "region_margin": "839/10000"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "complement_components": [
+    "D(2,2)",
+    "D(1,1)",
+    "D(1,2)"
+  ],
+  "n": 15,
+  "nu": 6,
+  "clique_number": 9,
+  "matching_counts": [
+    1,
+    12,
+    54,
+    113,
+    112,
+    50,
+    8
+  ],
+  "chromatic_residual": "x**6 - 57*x**5 + 1369*x**4 - 17710*x**3 + 129992*x**2 - 512731*x + 848168",
+  "rectangle": {
+    "real": [
+      "203/20",
+      "254/25"
+    ],
+    "imag": [
+      "363/100",
+      "91/25"
+    ]
+  },
+  "exact_complex_root_count": 1,
+  "squarefree": true,
+  "boundary_root_free": true,
+  "outside_margin": "27669/10000",
+  "claim": "Outside closed BRW R_T(0); no claim about other criteria or novelty"
+}

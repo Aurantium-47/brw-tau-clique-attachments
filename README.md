@@ -20,6 +20,8 @@ Exact mathematical proofs and reproducible computations toward ordinary **τ-rea
 
   The matching/chromatic encoding and rectangular-board inclusion–exclusion are classical (Farrell–Whitehead, 1992), as is the cycle/fork identity (explicitly in Ma–Li, 2016); see the [matching-literature attribution and unresolved-overlap note](MATCHING_LITERATURE_STATUS.md).
 
+  **Full-clique subclass with small matching components.** If the complement is bipartite and each connected component has matching number at most two, every actual clique quotient is Bell-real and attachment along every clique preserves ordinary τ-reality; see the [theorem and exact replay](extensions/2026-11-02-small-matching-components/README.md). An exact root rectangle for the 15-vertex example with complement $D(2,2)\sqcup D(1,1)\sqcup D(1,2)$ excludes the direct parabolic-region hypothesis of BRW Proposition 5.13, not all older criteria or historical overlap; single double-star complements already satisfy older chordal/real-chromatic-root criteria.
+
 - **Anchored incomparability graphs.** A proper partition into $k$ nonempty independent classes, with one selected vertex in each class adjacent to every vertex outside its class, gives real-rooted clique quotients of orders $0$ through $k$, provided the graph is an incomparability graph. These hypotheses require more than a dominating clique. [Precise theorem and verification package at the published version](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/1ecaf2df19a751422a4672a4ccb30aefe8f73f51/extensions/2026-11-02).
 
 - **Complete bipartite graphs minus one edge.** For every $a,b\ge2$, $K_{a,b}-e$ has a real-rooted Bell edge quotient and universal complete-intersection attachment. The initial structural corollary concerns a join with one distinguished edge removed and requires stronger first-quotient hypotheses on its inputs; its attachment conclusion is also limited to clique sizes at most two. [Initial mathematical manuscript](manuscript.md) · [PDF](manuscript.pdf) · [immutable initial release](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/07ff23038f18c4a444555de037e135fc4aead7e0).
@@ -46,6 +48,10 @@ python3 extensions/2026-11-02-odd-cycle-complements/check_components.py
 
 # Paired rooted decorations: supporting exact checks and rooted-surrogate obstruction
 python3 extensions/2026-11-02-paired-rooted-decorations/verify.py
+
+# Small matching components: supporting quotient and BRW-region checks
+python3 extensions/2026-11-02-small-matching-components/verify.py
+python3 extensions/2026-11-02-small-matching-components/check_region.py
 
 # Initial missing-edge theorem and its original structural corollary
 python3 verify_all.py
