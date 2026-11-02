@@ -1,0 +1,15 @@
+ALLOWLIST.txt
+CHECKER_PROVENANCE.json
+DELTA_REPORT.md
+MANIFEST.json
+PUBLIC_AUDIT.md
+README.md
+SHA256SUMS
+VERIFICATION_RECEIPT.json
+addendum.md
+addendum.pdf
+certificates/general_theta_identity_certificate.json
+checkers/check_general_theta_identities.py
+checkers/general_theta_identity_certificate.json
+requirements.txt
+verify_all.py

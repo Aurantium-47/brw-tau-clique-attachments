@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "scope": "Standalone uniform-theta addendum only; earlier release directories remain unchanged.",
+  "files": [
+    {
+      "path": "ALLOWLIST.txt",
+      "size_bytes": 332,
+      "sha256": "0c5a2864dce690703f2603c1008290d194ee00d9a979bd74caac332a32bb1d33"
+    },
+    {
+      "path": "CHECKER_PROVENANCE.json",
+      "size_bytes": 780,
+      "sha256": "567f0018c714d282b30d35deb56d3e1e67ee5725a7162442fba7fc32fd9b9bf6"
+    },
+    {
+      "path": "DELTA_REPORT.md",
+      "size_bytes": 1435,
+      "sha256": "3d1930c19168a7d7c42a15246a0d34b16883f499330af65c315575ed752d00c3"
+    },
+    {
+      "path": "PUBLIC_AUDIT.md",
+      "size_bytes": 2278,
+      "sha256": "bf23561c4566bc3179d9e593b6e7f377362d26f1af2644e9887efa1b37031b10"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2046,
+      "sha256": "44b45f3413c8cd8889d078baff2d850ff72ccc782232ea558231e76ce9a7560d"
+    },
+    {
+      "path": "VERIFICATION_RECEIPT.json",
+      "size_bytes": 1447,
+      "sha256": "563a2adf3d50b95535d26b42af21fd7536a5fa7747ca3118991487c48d243520"
+    },
+    {
+      "path": "addendum.md",
+      "size_bytes": 19288,
+      "sha256": "2eb03dc7d5ef062b8b3614661dbe0f6a1ad49fd8c4bc1a657d56fdf79e968644"
+    },
+    {
+      "path": "addendum.pdf",
+      "size_bytes": 78050,
+      "sha256": "0487450ebf5bc75483c8be5b2748cdd7cd4d28c23c5c31df67c54270be7f5819"
+    },
+    {
+      "path": "certificates/general_theta_identity_certificate.json",
+      "size_bytes": 1014,
+      "sha256": "87edda016216c9681adb7ab9c78469f6759dcd8798eccc5ab5569a2f706d938d"
+    },
+    {
+      "path": "checkers/check_general_theta_identities.py",
+      "size_bytes": 1681,
+      "sha256": "a6ec81413f130943fefe0b72b3a7cf56d3c799edcd794b00fa30cab009ae3f30"
+    },
+    {
+      "path": "checkers/general_theta_identity_certificate.json",
+      "size_bytes": 1014,
+      "sha256": "87edda016216c9681adb7ab9c78469f6759dcd8798eccc5ab5569a2f706d938d"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 14,
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc"
+    },
+    {
+      "path": "verify_all.py",
+      "size_bytes": 1290,
+      "sha256": "8fff46716d73f3631c57aa1ec81e830d286ed9920ac87e0981ea804178911d13"
+    }
+  ]
+}

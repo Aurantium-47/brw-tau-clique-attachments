@@ -1,0 +1,16 @@
+{
+  "graph": "independent P4 blowup sizes(2,2,2,2)",
+  "chromatic_polynomial": "x*(x-1)*(x**6 - 11*x**5 + 55*x**4 - 154*x**3 + 250*x**2 - 220*x + 81)",
+  "method": "exact rational complex-root isolation, multiplicities certified by SymPy intervals(all=True)",
+  "outside_closed_parabola_certificates": [
+    {
+      "re_lower": "35875/16384",
+      "re_upper": "1125/512",
+      "im_lower": "32625/16384",
+      "im_upper": "16375/8192",
+      "multiplicity": 1,
+      "parabola_expression_upper_bound": "-407457761/67108864"
+    }
+  ],
+  "scope": "excludes BRW displayed parabolic sufficient condition, not all prior literature"
+}

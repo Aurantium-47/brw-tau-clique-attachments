@@ -1,0 +1,16 @@
+{
+  "source_uniform_proof_sha256": "f6f67a217f78c299259fad65244b81cc240f9c1451184b82f74dc5c49abe6a4c",
+  "description": "Exact algebraic checks inherited unchanged; analytic uniformity is proved in the addendum, not inferred from computations.",
+  "files": [
+    {
+      "file": "checkers/check_general_theta_identities.py",
+      "sha256": "a6ec81413f130943fefe0b72b3a7cf56d3c799edcd794b00fa30cab009ae3f30",
+      "change": "byte-identical already-reviewed algebraic checker or receipt; relocation only"
+    },
+    {
+      "file": "certificates/general_theta_identity_certificate.json",
+      "sha256": "87edda016216c9681adb7ab9c78469f6759dcd8798eccc5ab5569a2f706d938d",
+      "change": "byte-identical already-reviewed algebraic checker or receipt; relocation only"
+    }
+  ]
+}

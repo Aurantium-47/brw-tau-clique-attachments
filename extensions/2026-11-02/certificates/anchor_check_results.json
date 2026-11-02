@@ -1,0 +1,132 @@
+{
+  "status": "PASS",
+  "principal_minor_instances": 1008,
+  "actual_anchored_graph_cases": [
+    {
+      "n": 4,
+      "k": 1,
+      "classes": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "anchors": [
+        1
+      ],
+      "quotient_Bell": "z**3 + 3*z**2 + z"
+    },
+    {
+      "n": 4,
+      "k": 2,
+      "classes": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "anchors": [
+        2,
+        1
+      ],
+      "quotient_Bell": "z**2 + 3*z + 1"
+    },
+    {
+      "n": 9,
+      "k": 3,
+      "classes": [
+        [
+          0,
+          3,
+          6
+        ],
+        [
+          1,
+          4,
+          7
+        ],
+        [
+          2,
+          5,
+          8
+        ]
+      ],
+      "anchors": [
+        3,
+        4,
+        5
+      ],
+      "quotient_Bell": "z**6 + 36*z**5 + 468*z**4 + 2756*z**3 + 7548*z**2 + 8772*z + 3181"
+    },
+    {
+      "n": 8,
+      "k": 4,
+      "classes": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          7
+        ]
+      ],
+      "anchors": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "quotient_Bell": "z**4 + 24*z**3 + 186*z**2 + 536*z + 465"
+    },
+    {
+      "n": 7,
+      "k": 2,
+      "classes": [
+        [
+          0,
+          2,
+          5
+        ],
+        [
+          1,
+          3,
+          4,
+          6
+        ]
+      ],
+      "anchors": [
+        2,
+        3
+      ],
+      "quotient_Bell": "z**5 + 19*z**4 + 115*z**3 + 263*z**2 + 210*z + 41"
+    }
+  ],
+  "strict_seed_checks": {
+    "n": 7,
+    "edges": 10,
+    "connected_and_coconnected": true,
+    "no_vertex_or_edge_clique_separator": true,
+    "induced_2K2_vertices": [
+      0,
+      1,
+      5,
+      6
+    ]
+  },
+  "scope": "finite independent diagnostics; universal proof uses the exact principal-minor and EGF arguments"
+}

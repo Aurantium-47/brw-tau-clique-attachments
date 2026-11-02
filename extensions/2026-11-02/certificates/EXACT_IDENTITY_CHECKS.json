@@ -1,0 +1,107 @@
+{
+  "scope": "Exact finite identity checks; not an eventual-root proof",
+  "cases": [
+    {
+      "paths": [
+        2,
+        2,
+        2
+      ],
+      "vertices": 5,
+      "edges": 6,
+      "independent_subset_expansion_match": true,
+      "quotient_identity": true
+    },
+    {
+      "paths": [
+        2,
+        2,
+        3
+      ],
+      "vertices": 6,
+      "edges": 7,
+      "independent_subset_expansion_match": true,
+      "quotient_identity": true
+    },
+    {
+      "paths": [
+        2,
+        3,
+        4
+      ],
+      "vertices": 8,
+      "edges": 9,
+      "independent_subset_expansion_match": true,
+      "quotient_identity": true
+    },
+    {
+      "paths": [
+        3,
+        3,
+        3
+      ],
+      "vertices": 8,
+      "edges": 9,
+      "independent_subset_expansion_match": true,
+      "quotient_identity": true
+    },
+    {
+      "paths": [
+        2,
+        4,
+        5
+      ],
+      "vertices": 10,
+      "edges": 11,
+      "independent_subset_expansion_match": true,
+      "quotient_identity": true
+    },
+    {
+      "paths": [
+        4,
+        3,
+        4
+      ],
+      "vertices": 10,
+      "edges": 11,
+      "independent_subset_expansion_match": true,
+      "quotient_identity": true
+    }
+  ],
+  "quartic": {
+    "coefficients": [
+      1,
+      8,
+      16,
+      8,
+      1
+    ],
+    "brackets": [
+      {
+        "left": "-6",
+        "right": "-5",
+        "left_value": "97",
+        "right_value": "-14"
+      },
+      {
+        "left": "-3",
+        "right": "-2",
+        "left_value": "-14",
+        "right_value": "1"
+      },
+      {
+        "left": "-1/2",
+        "right": "-2/5",
+        "left_value": "1/16",
+        "right_value": "-79/625"
+      },
+      {
+        "left": "-1/5",
+        "right": "-1/10",
+        "left_value": "-14/625",
+        "right_value": "3521/10000"
+      }
+    ]
+  },
+  "unit_disk_margin_identity": true
+}

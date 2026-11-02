@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "checks": [
+    "all-length rational path/coloring quotient identity",
+    "all-length positive geometric-sum identity",
+    "exact Bell quartic identity",
+    "four disjoint negative sign intervals",
+    "parabola radial identity"
+  ],
+  "quartic": "z**4 + 8*z**3 + 16*z**2 + 8*z + 1",
+  "intervals": [
+    {
+      "interval": [
+        "-6",
+        "-5"
+      ],
+      "endpoint_values": [
+        "97",
+        "-14"
+      ]
+    },
+    {
+      "interval": [
+        "-3",
+        "-2"
+      ],
+      "endpoint_values": [
+        "-14",
+        "1"
+      ]
+    },
+    {
+      "interval": [
+        "-1/2",
+        "-2/5"
+      ],
+      "endpoint_values": [
+        "1/16",
+        "-79/625"
+      ]
+    },
+    {
+      "interval": [
+        "-1/5",
+        "-1/10"
+      ],
+      "endpoint_values": [
+        "-14/625",
+        "3521/10000"
+      ]
+    }
+  ],
+  "limitation": "The existential eventual threshold is established by the analytic proof, not these finite/algebraic checks."
+}

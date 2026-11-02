@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "python": "3.12.14",
+  "sympy": "1.14.0",
+  "checker": "checkers/check_general_theta_identities.py",
+  "stdout": "{\n  \"status\": \"PASS\",\n  \"checks\": [\n    \"all-length rational path/coloring quotient identity\",\n    \"all-length positive geometric-sum identity\",\n    \"exact Bell quartic identity\",\n    \"four disjoint negative sign intervals\",\n    \"parabola radial identity\"\n  ],\n  \"quartic\": \"z**4 + 8*z**3 + 16*z**2 + 8*z + 1\",\n  \"intervals\": [\n    {\n      \"interval\": [\n        \"-6\",\n        \"-5\"\n      ],\n      \"endpoint_values\": [\n        \"97\",\n        \"-14\"\n      ]\n    },\n    {\n      \"interval\": [\n        \"-3\",\n        \"-2\"\n      ],\n      \"endpoint_values\": [\n        \"-14\",\n        \"1\"\n      ]\n    },\n    {\n      \"interval\": [\n        \"-1/2\",\n        \"-2/5\"\n      ],\n      \"endpoint_values\": [\n        \"1/16\",\n        \"-79/625\"\n      ]\n    },\n    {\n      \"interval\": [\n        \"-1/5\",\n        \"-1/10\"\n      ],\n      \"endpoint_values\": [\n        \"-14/625\",\n        \"3521/10000\"\n      ]\n    }\n  ],\n  \"limitation\": \"The existential eventual threshold is established by the analytic proof, not these finite/algebraic checks.\"\n}\n",
+  "limitation": "Exact algebraic identities and sign certificates only; no effective threshold or computational verification of analytic eventuality is claimed."
+}

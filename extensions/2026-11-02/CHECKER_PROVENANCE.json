@@ -1,0 +1,87 @@
+{
+  "description": "Exact checker and receipt provenance. Ordinary AI-assisted mathematical review, not human peer review or proof-assistant verification.",
+  "checkers": [
+    {
+      "file": "checkers/verify_anchored_incomparability.py",
+      "sha256": "09f44d1d1b6a3fff8dc81bb94db1287b78f3d780254b3f9cfdb772f183358210",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/verify_p4_blowups.py",
+      "sha256": "fb5ae48f4f9ea5e8e49a59f5fafba5cd846873d9389180afa3badcd34710a182",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/certify_p4_outside_parabola.py",
+      "sha256": "75c9b4d672622b8ecb52a99a2a9f52c5d5d61c190f3016776eec12eed3f1f663",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/check_anchor.py",
+      "sha256": "b294529ce3bfd8fb7506e874ad77a303305db4a1b3add3a887b128d98e1c7699",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/check_p4.py",
+      "sha256": "b82fb4871ef3d2e1aff2b8a5487346e311a8366652ad7543502150213abaefc8",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/certify_seed_region.py",
+      "sha256": "ed4cd157f4e79796688affdf57a5664cc87fffeadc4afa1f5f9bb0579a91aed8",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/check_general_theta_identities.py",
+      "sha256": "a6ec81413f130943fefe0b72b3a7cf56d3c799edcd794b00fa30cab009ae3f30",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "checkers/check_exact_identities.py",
+      "sha256": "1bb5e7c00b2dfc0f745ccd955ab9e2ab074f2fc111128cdff4224961c9ffa8e8",
+      "change": "byte-identical mathematical source; directory relocation only"
+    }
+  ],
+  "receipts": [
+    {
+      "file": "certificates/anchored_verification.json",
+      "sha256": "21fafe73bb8523e1bd42e34913ba1d37f0b4fe2d145097658d2113bcf64a1048",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/p4_verification.json",
+      "sha256": "cdb32074fc02daafc5d50de5b0dbb7ee4eff5537e8e471f5703ed092ca770401",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/p4_outside_parabola.json",
+      "sha256": "3243eb5f2e1a1efe8132818aae7bbc3dfc62b5abb6c19bc89ae58e115211b582",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/anchor_check_results.json",
+      "sha256": "78bd2e0f390c9dab15e94b3a0d4ff558271a5fca56bc616301a0a47bf057f112",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/p4_check_results.json",
+      "sha256": "cfbbc7d073b244ac0c4fb04a8a258f121912a3138d9bf64b6cc7fe0a90313c63",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/p4_seed_region.json",
+      "sha256": "c847f494ddfd98df761089daf9ed4d2426acc080167b0502f723d7e3840bb5db",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/general_theta_identity_certificate.json",
+      "sha256": "87edda016216c9681adb7ab9c78469f6759dcd8798eccc5ab5569a2f706d938d",
+      "change": "byte-identical mathematical source; directory relocation only"
+    },
+    {
+      "file": "certificates/EXACT_IDENTITY_CHECKS.json",
+      "sha256": "51f048aa70db1a559f8857c81eb2ff03cfe6653749ae5efc50d955ab43144732",
+      "change": "byte-identical mathematical source; directory relocation only"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "status": "PASS",
+  "symbolic_interfaces": [
+    "Qminus=N/H",
+    "det(I-UM)=N",
+    "rank-one augmented determinant=H",
+    "fixed middle-color derivative"
+  ],
+  "actual_graph_profiles": [
+    [
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      2,
+      1,
+      2,
+      2
+    ]
+  ],
+  "direct_weighted_lifting_profiles": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      0,
+      1
+    ]
+  ],
+  "note": "Universal proof is the formal EGF/root-lifting argument; finite graphs are supplements."
+}

@@ -1,0 +1,8 @@
+{
+  "polynomial": "q**6 - 11*q**5 + 55*q**4 - 154*q**3 + 250*q**2 - 220*q + 81",
+  "lower": "219/100 + 199*I/100",
+  "upper": "11/5 + 2*I",
+  "root_count": 1,
+  "parabola_upper_bound": "-15101/2500",
+  "actual_graph_factor_verified": true
+}

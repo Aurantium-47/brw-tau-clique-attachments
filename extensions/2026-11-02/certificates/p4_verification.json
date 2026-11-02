@@ -1,0 +1,248 @@
+{
+  "status": "passed",
+  "symbolic_matrix_identities": 2,
+  "actual_graph_vs_kernel_cases": 16,
+  "results": [
+    {
+      "sizes": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        6,
+        7,
+        1
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        7,
+        11,
+        3
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        12,
+        40,
+        39,
+        7
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        7,
+        11,
+        3
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        11,
+        32,
+        25,
+        3
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        13,
+        49,
+        59,
+        17
+      ]
+    },
+    {
+      "sizes": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        19,
+        115,
+        262,
+        205,
+        37
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        6,
+        7,
+        1
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        10,
+        25,
+        15,
+        1
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        11,
+        32,
+        25,
+        3
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        1,
+        2,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        17,
+        88,
+        159,
+        85,
+        7
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        12,
+        40,
+        39,
+        7
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        2,
+        1,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        17,
+        88,
+        159,
+        85,
+        7
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        2,
+        2,
+        1
+      ],
+      "q_coefficients": [
+        1,
+        19,
+        115,
+        262,
+        205,
+        37
+      ]
+    },
+    {
+      "sizes": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "q_coefficients": [
+        1,
+        26,
+        230,
+        849,
+        1293,
+        691,
+        81
+      ]
+    }
+  ],
+  "scope": "finite checks supplement all-parameter proof"
+}
