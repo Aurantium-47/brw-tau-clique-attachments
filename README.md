@@ -12,6 +12,8 @@ Exact mathematical proofs and reproducible computations toward ordinary **τ-rea
 
 - **Parallel paths under a uniform length condition.** The [consolidated extension](extensions/2026-11-02-parallel-paths/README.md) proves the result for arbitrary path counts under an explicit product-radius criterion, with a sufficient logarithmic minimum-length bound. This remains independent current scope. Its five-cycle substitution and $\Theta(2,2,2,m)$ conclusions are now special cases of uniform cycle substitution. More generally, taking $F$ edgeless recovers $\Theta(2^k,m)$ (here $2^k$ means $k$ paths of length two), for $k\ge1$ and $m\ge2$. The earlier $C_5/C_7$ and short-branch special cases are subsumed, not additional scope; the all-three-path theorem above and the arbitrary-path-count length condition are not superseded. [Historical manuscript](extensions/2026-11-02-parallel-paths/MANUSCRIPT.md) · [PDF](extensions/2026-11-02-parallel-paths/manuscript.pdf) · [sealed manifest](extensions/2026-11-02-parallel-paths/MANIFEST.json).
 
+- **Co-bipartite matching quotients.** Every edge-containing co-bipartite graph (its vertices can be partitioned into two cliques) has a Bell-real edge quotient, realized exactly as a reversed matching enumerator of an explicit bipartite graph. It is therefore universally attachable along an edge to any ordinary τ-real graph. For $n\ge3$, a chosen complement bipartition with part sizes $1\le s\le t$ also gives real-rooted clique quotients and attachment for $1\le j\le t$; this bound does **not** cover arbitrary larger cliques. The matching proof establishes the general result; 165 edge-quotient cases and 663 bounded-$j$ checks support its identities, not finite-sample extrapolation. [Proof and exact replay](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/3b1cf60a6bda10d2796ecf54438b0c5b895af81d/extensions/2026-11-02-cobipartite-matching) · [PDF](https://github.com/Aurantium-47/brw-tau-clique-attachments/blob/3b1cf60a6bda10d2796ecf54438b0c5b895af81d/extensions/2026-11-02-cobipartite-matching/manuscript.pdf). Independent AI review is not human peer review or proof-assistant certification; no historical-novelty claim is made.
+
 - **Anchored incomparability graphs.** A proper partition into $k$ nonempty independent classes, with one selected vertex in each class adjacent to every vertex outside its class, gives real-rooted clique quotients of orders $0$ through $k$, provided the graph is an incomparability graph. These hypotheses require more than a dominating clique. [Precise theorem and verification package at the published version](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/1ecaf2df19a751422a4672a4ccb30aefe8f73f51/extensions/2026-11-02).
 
 - **Complete bipartite graphs minus one edge.** For every $a,b\ge2$, $K_{a,b}-e$ has a real-rooted Bell edge quotient and universal complete-intersection attachment. The initial structural corollary concerns a join with one distinguished edge removed and requires stronger first-quotient hypotheses on its inputs; its attachment conclusion is also limited to clique sizes at most two. [Initial mathematical manuscript](manuscript.md) · [PDF](manuscript.pdf) · [immutable initial release](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/07ff23038f18c4a444555de037e135fc4aead7e0).
@@ -27,6 +29,10 @@ python3 -m pip install -r requirements.txt
 
 # Uniform cycle theorem: supporting identity checks, not a replacement for the proof
 python3 extensions/2026-11-02-uniform-cycle-substitution/verify.py
+
+# Co-bipartite matching quotients: supporting checks; use Python 3.12 or compatible
+python3 -m pip install -r extensions/2026-11-02-cobipartite-matching/requirements.txt
+python3 extensions/2026-11-02-cobipartite-matching/verify.py
 
 # Initial missing-edge theorem and its original structural corollary
 python3 verify_all.py
