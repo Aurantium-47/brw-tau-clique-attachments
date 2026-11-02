@@ -1,0 +1,15 @@
+{
+  "algorithm": "SHA256",
+  "files_sha256": {
+    "MATHEMATICAL_REVIEW.md": "1a56b37372f83ed03284b219c0db5929a03e3fa0d2a50d6c62358d254102723f",
+    "PROVENANCE.json": "b238345b1dd9310f9243c7c1a4f24f940d0af25198a958af416b6feb0bb628f3",
+    "README.md": "990dc1a257ab41c51c1661708744eab78547d6dad24353c11b339f53c8d21fc9",
+    "RESEARCH_NOTE.md": "2d170166296e7926d6ea38c4bb022129600cd467806785baac4f9ab46bfa783b",
+    "RESEARCH_NOTE.pdf": "f9e824d005e3cab8086937951e213b25489ff50da17c9f5d02a93504a7070ed4",
+    "build_pdf.py": "10ea32f972c0a642707e5f0b2dd6dd70e7da496f540ad0bad787656d619d1796",
+    "check_independent.py": "9cbeaa42755b060041f55c6619aae0a55c85d5aac2759a877a9275c0dbadb1a9",
+    "check_invariant_algebra.py": "e45937a79274d7a972443c09db4c939b002d10a54c3184cbba05ae0428837a94",
+    "requirements.txt": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc",
+    "verify.py": "14ad0b7623bb9aea291e6e01c0e41ec9b41e91a5bfac9b1975dd5bc9d4608807"
+  }
+}

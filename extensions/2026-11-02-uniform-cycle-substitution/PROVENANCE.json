@@ -1,0 +1,25 @@
+{
+  "description": "SHA256 fingerprints of preserved pre-packaging mathematical sources. Source labels are not runtime file dependencies. The historical star-method operator status is superseded by the present theorem.",
+  "sources": [
+    {
+      "source_label": "original_enlarged_invariant_audit",
+      "sha256": "46ae0f6cb6c1613f6c2a9bce3d3a471f2ad799d6b087cdd8b477c6b457ef851a"
+    },
+    {
+      "source_label": "higher_shift_extension_audit",
+      "sha256": "e59023bcca5960835a4881c96834531cdf12bcd4472f4c43f31de449b9754fb8"
+    },
+    {
+      "source_label": "invariant_algebra_source",
+      "sha256": "fa57da3776004870a8ea00e5784b6f4ad8a468e4ce21c8cdefb00f1dbe7b1025"
+    },
+    {
+      "source_label": "independent_algebra_source",
+      "sha256": "abc211043e4a4bf1f0777e1ebdc149e9e46743f3d3bf5241d055f98c0521c126"
+    },
+    {
+      "source_label": "historical_star_method_note",
+      "sha256": "14aebdb43cfdb4d2767cb49a7a9330f4ec2e1fc14e2be2d43b29a762842a52d4"
+    }
+  ]
+}
