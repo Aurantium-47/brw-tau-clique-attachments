@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-02",
+  "status": "proved scoped family; unrestricted graph closure unresolved",
+  "authorship": "AI-assisted derivation and separate AI mathematical review; not human peer review or proof-assistant verification",
+  "novelty": "No historical novelty claim; Mu\u2013Shen\u2013Xu overlap unassessed",
+  "verification": {
+    "edge_cases": 165,
+    "atlas_cases": 147,
+    "structured_cases": 18,
+    "bounded_clique_checks": 663,
+    "arithmetic": "exact integers and rational root isolation",
+    "finite_checks_are_proof_premises": false
+  },
+  "sources": [
+    "https://doi.org/10.4153/CJM-1994-002-3",
+    "https://doi.org/10.1007/BF01877590"
+  ],
+  "side_effects": "local artifacts only; no external publication performed by this worker"
+}

@@ -1,0 +1,38 @@
+{
+  "MATHEMATICAL_REVIEW.md": {
+    "sha256": "0540029016d5c170df2d1ccd5adbdea8524694b47a6bca79954cfa7e6b6b72be",
+    "bytes": 2133
+  },
+  "PDF_QA.md": {
+    "sha256": "34eacd492b3d651e6a536626068cdeb47de66f02d64ec5d0e28adc1aa12997c2",
+    "bytes": 2730
+  },
+  "PROVENANCE.json": {
+    "sha256": "44e9699d1b50e611bd95a2ff34d9c87eb22aa71f660d2b7defd613452bda294c",
+    "bytes": 763
+  },
+  "README.md": {
+    "sha256": "40597a86924cfd6f0fef82cff3de24737459a6c0c7b1d651abba4717de603590",
+    "bytes": 1751
+  },
+  "certificate.json": {
+    "sha256": "7ac8062978716aea02aae98fdf9be2ee8b7c97f171dd6f53f3ed5a9d464b1521",
+    "bytes": 391331
+  },
+  "manuscript.md": {
+    "sha256": "c63d07448a4e5796ac75029452233ec30413698f772f6034e5e8bc2aef151912",
+    "bytes": 15036
+  },
+  "manuscript.pdf": {
+    "sha256": "a7f2787699d8c42ff5a3132307a0b18e04d77e47463b1c7b53e9b8252281e033",
+    "bytes": 71743
+  },
+  "requirements.txt": {
+    "sha256": "e0a380470e5957bd88f8fb5dc82f9ccf2e29667ec7065ca240734ad6673947fd",
+    "bytes": 28
+  },
+  "verify.py": {
+    "sha256": "9b92b178649ac5dd97e272910c9a6dad2cd1de0051f6fcbf3c5d797235b3253c",
+    "bytes": 4248
+  }
+}
