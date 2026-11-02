@@ -1,0 +1,734 @@
+{
+  "cases": 39,
+  "records": [
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 1,
+      "coefficients_ascending": [
+        11954880,
+        147414960,
+        412801200,
+        461992440,
+        258293280,
+        80793174,
+        15028118,
+        1709705,
+        119012,
+        4904,
+        109,
+        1
+      ],
+      "exact_nonpositive_root_count": 11
+    },
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 2,
+      "coefficients_ascending": [
+        11954880,
+        67730040,
+        115023720,
+        86742180,
+        34310220,
+        7747159,
+        1040137,
+        83696,
+        3924,
+        98,
+        1
+      ],
+      "exact_nonpositive_root_count": 10
+    },
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 3,
+      "coefficients_ascending": [
+        5977440,
+        20584200,
+        23609880,
+        12626460,
+        3613960,
+        590457,
+        56210,
+        3054,
+        87,
+        1
+      ],
+      "exact_nonpositive_root_count": 9
+    },
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 4,
+      "coefficients_ascending": [
+        1992480,
+        4647930,
+        3792390,
+        1472345,
+        305945,
+        35564,
+        2294,
+        76,
+        1
+      ],
+      "exact_nonpositive_root_count": 8
+    },
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 5,
+      "coefficients_ascending": [
+        498120,
+        829962,
+        493738,
+        139801,
+        20768,
+        1644,
+        65,
+        1
+      ],
+      "exact_nonpositive_root_count": 7
+    },
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 6,
+      "coefficients_ascending": [
+        99624,
+        121723,
+        53145,
+        10832,
+        1104,
+        54,
+        1
+      ],
+      "exact_nonpositive_root_count": 6
+    },
+    {
+      "tag": "C5+C7",
+      "n": 12,
+      "S": 5,
+      "T": 9,
+      "j": 7,
+      "coefficients_ascending": [
+        16604,
+        15017,
+        4766,
+        674,
+        43,
+        1
+      ],
+      "exact_nonpositive_root_count": 5
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 1,
+      "coefficients_ascending": [
+        11491200,
+        144547200,
+        411264000,
+        465897600,
+        262735200,
+        82625760,
+        15405600,
+        1752000,
+        121605,
+        4985,
+        110,
+        1
+      ],
+      "exact_nonpositive_root_count": 11
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 2,
+      "coefficients_ascending": [
+        11491200,
+        66528000,
+        114912000,
+        87746400,
+        34997760,
+        7938000,
+        1066800,
+        85650,
+        3995,
+        99,
+        1
+      ],
+      "exact_nonpositive_root_count": 10
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 3,
+      "coefficients_ascending": [
+        5745600,
+        20260800,
+        23662800,
+        12816720,
+        3696840,
+        605880,
+        57615,
+        3115,
+        88,
+        1
+      ],
+      "exact_nonpositive_root_count": 9
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 4,
+      "coefficients_ascending": [
+        1915200,
+        4586400,
+        3815280,
+        1500240,
+        313800,
+        36510,
+        2345,
+        77,
+        1
+      ],
+      "exact_nonpositive_root_count": 8
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 5,
+      "coefficients_ascending": [
+        478800,
+        821520,
+        498960,
+        143040,
+        21345,
+        1685,
+        66,
+        1
+      ],
+      "exact_nonpositive_root_count": 7
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 6,
+      "coefficients_ascending": [
+        95760,
+        120960,
+        54000,
+        11130,
+        1135,
+        55,
+        1
+      ],
+      "exact_nonpositive_root_count": 6
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 7,
+      "coefficients_ascending": [
+        15960,
+        15000,
+        4875,
+        695,
+        44,
+        1
+      ],
+      "exact_nonpositive_root_count": 5
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 8,
+      "coefficients_ascending": [
+        2280,
+        1590,
+        365,
+        33,
+        1
+      ],
+      "exact_nonpositive_root_count": 4
+    },
+    {
+      "tag": "C5+K1,6",
+      "n": 12,
+      "S": 3,
+      "T": 10,
+      "j": 9,
+      "coefficients_ascending": [
+        285,
+        145,
+        22,
+        1
+      ],
+      "exact_nonpositive_root_count": 3
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 1,
+      "coefficients_ascending": [
+        10483200,
+        131191200,
+        372627360,
+        422756880,
+        239463840,
+        75844020,
+        14276500,
+        1642718,
+        115589,
+        4812,
+        108,
+        1
+      ],
+      "exact_nonpositive_root_count": 11
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 2,
+      "coefficients_ascending": [
+        10483200,
+        60354000,
+        104091120,
+        79666440,
+        31959480,
+        7314090,
+        994630,
+        81011,
+        3842,
+        97,
+        1
+      ],
+      "exact_nonpositive_root_count": 10
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 3,
+      "coefficients_ascending": [
+        5241600,
+        18370800,
+        21430080,
+        11647272,
+        3385368,
+        561246,
+        54173,
+        2982,
+        86,
+        1
+      ],
+      "exact_nonpositive_root_count": 9
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 4,
+      "coefficients_ascending": [
+        1747200,
+        4155900,
+        3454836,
+        1365406,
+        288566,
+        34085,
+        2232,
+        75,
+        1
+      ],
+      "exact_nonpositive_root_count": 8
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 5,
+      "coefficients_ascending": [
+        436800,
+        743820,
+        451836,
+        130510,
+        19757,
+        1592,
+        64,
+        1
+      ],
+      "exact_nonpositive_root_count": 7
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 6,
+      "coefficients_ascending": [
+        87360,
+        109410,
+        48918,
+        10199,
+        1062,
+        53,
+        1
+      ],
+      "exact_nonpositive_root_count": 6
+    },
+    {
+      "tag": "C7+K2,3",
+      "n": 12,
+      "S": 5,
+      "T": 8,
+      "j": 7,
+      "coefficients_ascending": [
+        14560,
+        13550,
+        4421,
+        642,
+        42,
+        1
+      ],
+      "exact_nonpositive_root_count": 5
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 1,
+      "coefficients_ascending": [
+        18720,
+        167760,
+        326880,
+        241320,
+        83100,
+        14586,
+        1328,
+        59,
+        1
+      ],
+      "exact_nonpositive_root_count": 8
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 2,
+      "coefficients_ascending": [
+        18720,
+        74520,
+        84120,
+        39300,
+        8760,
+        971,
+        51,
+        1
+      ],
+      "exact_nonpositive_root_count": 7
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 3,
+      "coefficients_ascending": [
+        9360,
+        21720,
+        15600,
+        4740,
+        670,
+        43,
+        1
+      ],
+      "exact_nonpositive_root_count": 6
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 4,
+      "coefficients_ascending": [
+        3120,
+        4650,
+        2190,
+        425,
+        35,
+        1
+      ],
+      "exact_nonpositive_root_count": 5
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 5,
+      "coefficients_ascending": [
+        780,
+        774,
+        236,
+        27,
+        1
+      ],
+      "exact_nonpositive_root_count": 4
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 6,
+      "coefficients_ascending": [
+        156,
+        103,
+        19,
+        1
+      ],
+      "exact_nonpositive_root_count": 3
+    },
+    {
+      "tag": "C5+4isolates",
+      "n": 9,
+      "S": 2,
+      "T": 8,
+      "j": 7,
+      "coefficients_ascending": [
+        26,
+        11,
+        1
+      ],
+      "exact_nonpositive_root_count": 2
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 1,
+      "coefficients_ascending": [
+        27407923200,
+        417945628800,
+        1478931753600,
+        2146132060800,
+        1605161308800,
+        698206242720,
+        189731762080,
+        33655607360,
+        3997627280,
+        321436355,
+        17437639,
+        625141,
+        14117,
+        181,
+        1
+      ],
+      "exact_nonpositive_root_count": 14
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 2,
+      "coefficients_ascending": [
+        27407923200,
+        195268852800,
+        427887633600,
+        429561106800,
+        235120040400,
+        77181033720,
+        16078675480,
+        2197116485,
+        200056755,
+        12137960,
+        481789,
+        11946,
+        167,
+        1
+      ],
+      "exact_nonpositive_root_count": 13
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 3,
+      "coefficients_ascending": [
+        13703961600,
+        60521630400,
+        91841500800,
+        67543921200,
+        27929353200,
+        7035954360,
+        1130340140,
+        118530705,
+        8152605,
+        362305,
+        9957,
+        153,
+        1
+      ],
+      "exact_nonpositive_root_count": 12
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 4,
+      "coefficients_ascending": [
+        4567987200,
+        13988410800,
+        15570618000,
+        8662217200,
+        2752448000,
+        535438295,
+        66100205,
+        5243050,
+        264505,
+        8150,
+        139,
+        1
+      ],
+      "exact_nonpositive_root_count": 11
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 5,
+      "coefficients_ascending": [
+        1141996800,
+        2569282800,
+        2166889200,
+        927904000,
+        228068000,
+        34152255,
+        3194795,
+        186205,
+        6525,
+        125,
+        1
+      ],
+      "exact_nonpositive_root_count": 10
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 6,
+      "coefficients_ascending": [
+        228399360,
+        390147240,
+        253820280,
+        84260465,
+        15978615,
+        1817364,
+        125221,
+        5082,
+        111,
+        1
+      ],
+      "exact_nonpositive_root_count": 9
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 7,
+      "coefficients_ascending": [
+        38066560,
+        50297240,
+        25440380,
+        6535565,
+        944305,
+        79369,
+        3821,
+        97,
+        1
+      ],
+      "exact_nonpositive_root_count": 8
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 8,
+      "coefficients_ascending": [
+        5438080,
+        5607395,
+        2203665,
+        433190,
+        46465,
+        2742,
+        83,
+        1
+      ],
+      "exact_nonpositive_root_count": 7
+    },
+    {
+      "tag": "3C5",
+      "n": 15,
+      "S": 6,
+      "T": 12,
+      "j": 9,
+      "coefficients_ascending": [
+        679760,
+        547515,
+        165615,
+        24325,
+        1845,
+        69,
+        1
+      ],
+      "exact_nonpositive_root_count": 6
+    }
+  ]
+}
