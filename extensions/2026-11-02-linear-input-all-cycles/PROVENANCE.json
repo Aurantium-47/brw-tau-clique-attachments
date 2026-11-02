@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-02",
+  "sources": [
+    {
+      "release_path": "LINEAR_SEED_PROOF.md",
+      "source_path": "brw_m4_invariant_probe_20261102/LINEAR_SEED_PROOF.md",
+      "source_sha256": "24e623e7322f4dfc163bc980695d2fcd37870861827baf23858bee00e87e7879",
+      "release_sha256": "24e623e7322f4dfc163bc980695d2fcd37870861827baf23858bee00e87e7879",
+      "changes": []
+    },
+    {
+      "release_path": "SHORT_RANGE_SUPPLEMENT.md",
+      "source_path": "brw_m4_invariant_probe_20261102/SHORT_RANGE_SUPPLEMENT.md",
+      "source_sha256": "d93d4f279fbcac59156d751b179ff9c2a5840dcdcb9900b4f0456aa7b961aa0f",
+      "release_sha256": "d93d4f279fbcac59156d751b179ff9c2a5840dcdcb9900b4f0456aa7b961aa0f",
+      "changes": []
+    },
+    {
+      "release_path": "check_short_ranges.py",
+      "source_path": "brw_m4_invariant_probe_20261102/check_short_ranges.py",
+      "source_sha256": "20c9cab88475525d334ccb605b13555c67866fea1f5654cc1a7bf84ac9e169ac",
+      "release_sha256": "20c9cab88475525d334ccb605b13555c67866fea1f5654cc1a7bf84ac9e169ac",
+      "changes": []
+    },
+    {
+      "release_path": "short_range_certificate.json",
+      "source_path": "brw_m4_invariant_probe_20261102/short_range_certificate.json",
+      "source_sha256": "be96e6b6e92df9387385b130e0eb4687f811119f1510470013f01f5f42ebb553",
+      "release_sha256": "be96e6b6e92df9387385b130e0eb4687f811119f1510470013f01f5f42ebb553",
+      "changes": []
+    },
+    {
+      "release_path": "check_m4_formal.py",
+      "source_path": "brw_linear_propagation_audit_20261102/check_m4_formal.py",
+      "source_sha256": "5e1f61279002763d72c92c62496a17879ec4cca30c7f6fd80832bf6b0a84cb1b",
+      "release_sha256": "5e1f61279002763d72c92c62496a17879ec4cca30c7f6fd80832bf6b0a84cb1b",
+      "changes": []
+    },
+    {
+      "release_path": "check_linear_seed.py",
+      "source_path": "brw_m4_invariant_probe_20261102/check_linear_seed.py",
+      "source_sha256": "f7dd54733e7b1a035388075f147cbff85d7a99aa4b33de6884f9d1e9fa87cb02",
+      "release_sha256": "f7dd54733e7b1a035388075f147cbff85d7a99aa4b33de6884f9d1e9fa87cb02",
+      "changes": []
+    },
+    {
+      "release_path": "linear_seed_certificate.json",
+      "source_path": "brw_m4_invariant_probe_20261102/linear_seed_certificate.json",
+      "source_sha256": "f8e1caebf25a639c82d5f29320c3d638c82b8a17e57534ee4e093a9999914b52",
+      "release_sha256": "f8e1caebf25a639c82d5f29320c3d638c82b8a17e57534ee4e093a9999914b52",
+      "changes": []
+    },
+    {
+      "release_path": "INDEPENDENT_REVIEW.md",
+      "source_path": "brw_linear_propagation_audit_20261102/INDEPENDENT_REVIEW.md",
+      "source_sha256": "13df2463f0d25eafe4dac37b920cd3a26813d3107cd81568b0fdfd43484e1817",
+      "release_sha256": "13df2463f0d25eafe4dac37b920cd3a26813d3107cd81568b0fdfd43484e1817",
+      "changes": []
+    },
+    {
+      "release_path": "check_independent.py",
+      "source_path": "brw_linear_propagation_audit_20261102/check_independent.py",
+      "source_sha256": "c5c9ac08b1d2be9dea8453cca7ae15fd7262dbd0343c3e25b1f16d030613043c",
+      "release_sha256": "9b3aeba98bb1b8c388c87d0495196f0586d17d76689db282d109cdace33ec2e9",
+      "changes": [
+        "Only certificate input and generated-result output paths made portable."
+      ]
+    },
+    {
+      "release_path": "check_graph_independent.py",
+      "source_path": "brw_linear_propagation_audit_20261102/check_graph_example.py",
+      "source_sha256": "176deeec8e37f557bd3cc548eb37f6ed57adb1c7201928a9a757d57b161e7fd2",
+      "release_sha256": "49bebff7f5f46d970eb5a61d986350b15158817d773248b346adb448fc3c94f5",
+      "changes": [
+        "Only generated-result output path made portable."
+      ]
+    },
+    {
+      "release_path": "M4_REDUCTION.md",
+      "source_path": "brw_m4_degree_free_attempt_20261102/REDUCTION.md",
+      "source_sha256": "46701a326a1f34e7b8658785de6868df33ec92ff0d1962437717add3fc2118e3",
+      "release_sha256": "46701a326a1f34e7b8658785de6868df33ec92ff0d1962437717add3fc2118e3",
+      "changes": []
+    },
+    {
+      "release_path": "check_m4_identities.py",
+      "source_path": "brw_m4_degree_free_attempt_20261102/check_m4_identities.py",
+      "source_sha256": "06bbc5d96f051d83f7f4a529b1e605902f19b125a9adb3c4dbcf528e5eb8d89b",
+      "release_sha256": "06bbc5d96f051d83f7f4a529b1e605902f19b125a9adb3c4dbcf528e5eb8d89b",
+      "changes": []
+    },
+    {
+      "release_path": "GRAPH_SCOPE.md",
+      "source_path": "brw_m4_degree_free_attempt_20261102/GRAPH_SCOPE.md",
+      "source_sha256": "aa81da0b629ebb56b9e0af5f03c982ccece4286e0bbd48069d55bee7ef56f0c0",
+      "release_sha256": "aa81da0b629ebb56b9e0af5f03c982ccece4286e0bbd48069d55bee7ef56f0c0",
+      "changes": []
+    },
+    {
+      "release_path": "check_graph_scope.py",
+      "source_path": "brw_m4_degree_free_attempt_20261102/check_graph_scope.py",
+      "source_sha256": "88fec74f96818249cfee563a9391b3d739f46423d32b37ea582596219bc9a241",
+      "release_sha256": "88fec74f96818249cfee563a9391b3d739f46423d32b37ea582596219bc9a241",
+      "changes": []
+    },
+    {
+      "release_path": "dependency/ARROWHEAD_THEOREM.md",
+      "source_path": "brw_uniform_operator_deliverable_20261102/RESEARCH_NOTE.md",
+      "source_sha256": "2d170166296e7926d6ea38c4bb022129600cd467806785baac4f9ab46bfa783b",
+      "release_sha256": "2d170166296e7926d6ea38c4bb022129600cd467806785baac4f9ab46bfa783b",
+      "changes": []
+    },
+    {
+      "release_path": "dependency/MATHEMATICAL_REVIEW.md",
+      "source_path": "brw_uniform_operator_deliverable_20261102/MATHEMATICAL_REVIEW.md",
+      "source_sha256": "1a56b37372f83ed03284b219c0db5929a03e3fa0d2a50d6c62358d254102723f",
+      "release_sha256": "1a56b37372f83ed03284b219c0db5929a03e3fa0d2a50d6c62358d254102723f",
+      "changes": []
+    },
+    {
+      "release_path": "dependency/check_invariant_algebra.py",
+      "source_path": "brw_uniform_operator_deliverable_20261102/check_invariant_algebra.py",
+      "source_sha256": "e45937a79274d7a972443c09db4c939b002d10a54c3184cbba05ae0428837a94",
+      "release_sha256": "e45937a79274d7a972443c09db4c939b002d10a54c3184cbba05ae0428837a94",
+      "changes": []
+    },
+    {
+      "release_path": "dependency/check_independent.py",
+      "source_path": "brw_uniform_operator_deliverable_20261102/check_independent.py",
+      "source_sha256": "9cbeaa42755b060041f55c6619aae0a55c85d5aac2759a877a9275c0dbadb1a9",
+      "release_sha256": "9cbeaa42755b060041f55c6619aae0a55c85d5aac2759a877a9275c0dbadb1a9",
+      "changes": []
+    }
+  ],
+  "permission": "No external publication by this packaging step.",
+  "exploratory_exclusion": "No floating-point probes or their output are part of the release."
+}
