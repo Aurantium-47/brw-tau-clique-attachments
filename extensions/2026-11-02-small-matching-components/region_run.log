@@ -1,0 +1,2 @@
+PASS: all four nonreal chromatic zeros lie strictly inside BRW R_T(0)
+PASS: n15 example has certified zero outside closed BRW R_T(0)

@@ -1,0 +1,8944 @@
+{
+  "graphs": 122,
+  "quotients": 585,
+  "records": [
+    {
+      "name": "atlas_1",
+      "n": 1,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_2",
+      "n": 2,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        1,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_2",
+      "n": 2,
+      "j": 2,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_3",
+      "n": 2,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_4",
+      "n": 3,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_4",
+      "n": 3,
+      "j": 2,
+      "nu": 0,
+      "coefficients_ascending": [
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_4",
+      "n": 3,
+      "j": 3,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_5",
+      "n": 3,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        1,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_5",
+      "n": 3,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        1,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_6",
+      "n": 3,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_6",
+      "n": 3,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_8",
+      "n": 4,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        6,
+        18,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_8",
+      "n": 4,
+      "j": 2,
+      "nu": 0,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_8",
+      "n": 4,
+      "j": 3,
+      "nu": 0,
+      "coefficients_ascending": [
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_8",
+      "n": 4,
+      "j": 4,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_9",
+      "n": 4,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        4,
+        14,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_9",
+      "n": 4,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_9",
+      "n": 4,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_10",
+      "n": 4,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        2,
+        10,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_10",
+      "n": 4,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_10",
+      "n": 4,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        1,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_11",
+      "n": 4,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        11,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_11",
+      "n": 4,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_13",
+      "n": 4,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_13",
+      "n": 4,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_13",
+      "n": 4,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_14",
+      "n": 4,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_14",
+      "n": 4,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_16",
+      "n": 4,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_16",
+      "n": 4,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_19",
+      "n": 5,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        24,
+        96,
+        72,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_19",
+      "n": 5,
+      "j": 2,
+      "nu": 0,
+      "coefficients_ascending": [
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_19",
+      "n": 5,
+      "j": 3,
+      "nu": 0,
+      "coefficients_ascending": [
+        12,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_19",
+      "n": 5,
+      "j": 4,
+      "nu": 0,
+      "coefficients_ascending": [
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_19",
+      "n": 5,
+      "j": 5,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_20",
+      "n": 5,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        18,
+        78,
+        63,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_20",
+      "n": 5,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        18,
+        30,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_20",
+      "n": 5,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        9,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_20",
+      "n": 5,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_21",
+      "n": 5,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        12,
+        60,
+        54,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_21",
+      "n": 5,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        12,
+        24,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_21",
+      "n": 5,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_21",
+      "n": 5,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_22",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        14,
+        64,
+        55,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_22",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        14,
+        25,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_22",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_24",
+      "n": 5,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        6,
+        42,
+        45,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_24",
+      "n": 5,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        6,
+        18,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_24",
+      "n": 5,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        3,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_24",
+      "n": 5,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        1,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_25",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        46,
+        46,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_25",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        19,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_25",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_26",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        10,
+        50,
+        47,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_26",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        10,
+        20,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_26",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        5,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_28",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        32,
+        38,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_28",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        14,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_28",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_29",
+      "n": 5,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_29",
+      "n": 5,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        12,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_29",
+      "n": 5,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_29",
+      "n": 5,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_30",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        32,
+        38,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_30",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        14,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_30",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_31",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        36,
+        39,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_31",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        15,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_31",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_37",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        22,
+        31,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_37",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        10,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_37",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_44",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        12,
+        24,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_44",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_44",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_53",
+      "n": 6,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        120,
+        600,
+        600,
+        200,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_53",
+      "n": 6,
+      "j": 2,
+      "nu": 0,
+      "coefficients_ascending": [
+        120,
+        240,
+        120,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_53",
+      "n": 6,
+      "j": 3,
+      "nu": 0,
+      "coefficients_ascending": [
+        60,
+        60,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_53",
+      "n": 6,
+      "j": 4,
+      "nu": 0,
+      "coefficients_ascending": [
+        20,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_53",
+      "n": 6,
+      "j": 5,
+      "nu": 0,
+      "coefficients_ascending": [
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_53",
+      "n": 6,
+      "j": 6,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_54",
+      "n": 6,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        96,
+        504,
+        528,
+        184,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_54",
+      "n": 6,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        96,
+        204,
+        108,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_54",
+      "n": 6,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        48,
+        52,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_54",
+      "n": 6,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        16,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_54",
+      "n": 6,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_55",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        78,
+        426,
+        465,
+        169,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_55",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        78,
+        174,
+        97,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_55",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        39,
+        45,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_55",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        13,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_56",
+      "n": 6,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        72,
+        408,
+        456,
+        168,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_56",
+      "n": 6,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        72,
+        168,
+        96,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_56",
+      "n": 6,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        36,
+        44,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_56",
+      "n": 6,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        12,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_56",
+      "n": 6,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_58",
+      "n": 6,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        48,
+        312,
+        384,
+        152,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_58",
+      "n": 6,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        48,
+        132,
+        84,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_58",
+      "n": 6,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_58",
+      "n": 6,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        8,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_58",
+      "n": 6,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_59",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        54,
+        330,
+        393,
+        153,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_59",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        54,
+        138,
+        85,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_59",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        27,
+        37,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_59",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_60",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        60,
+        348,
+        402,
+        154,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_60",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        60,
+        144,
+        86,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_60",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        30,
+        38,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_60",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        10,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_61",
+      "n": 6,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        64,
+        362,
+        410,
+        155,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_61",
+      "n": 6,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        64,
+        149,
+        87,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_61",
+      "n": 6,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        32,
+        39,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_63",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        252,
+        330,
+        138,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_63",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        108,
+        74,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_63",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        30,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_63",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_64",
+      "n": 6,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        24,
+        216,
+        312,
+        136,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_64",
+      "n": 6,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        24,
+        96,
+        72,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_64",
+      "n": 6,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        12,
+        28,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_64",
+      "n": 6,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        4,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_64",
+      "n": 6,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        1,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_65",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        252,
+        330,
+        138,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_65",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        108,
+        74,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_65",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        30,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_65",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_66",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        42,
+        270,
+        339,
+        139,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_66",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        42,
+        114,
+        75,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_66",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        21,
+        31,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_66",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_68",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        42,
+        270,
+        339,
+        139,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_68",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        42,
+        114,
+        75,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_68",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        21,
+        31,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_68",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_69",
+      "n": 6,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        46,
+        284,
+        347,
+        140,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_69",
+      "n": 6,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        46,
+        119,
+        76,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_69",
+      "n": 6,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        23,
+        32,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_70",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        288,
+        348,
+        140,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_70",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        120,
+        76,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_70",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        32,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_70",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_75",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        192,
+        276,
+        124,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_75",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        84,
+        64,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_75",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        24,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_75",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_77",
+      "n": 6,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        120,
+        240,
+        120,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_77",
+      "n": 6,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        60,
+        60,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_77",
+      "n": 6,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        20,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_77",
+      "n": 6,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_77",
+      "n": 6,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_78",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        174,
+        267,
+        123,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_78",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        78,
+        63,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_78",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        23,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_78",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_79",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        192,
+        276,
+        124,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_79",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        84,
+        64,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_79",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        24,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_79",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_81",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        30,
+        210,
+        285,
+        125,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_81",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        30,
+        90,
+        65,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_81",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        15,
+        25,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_81",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        5,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_85",
+      "n": 6,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        32,
+        220,
+        292,
+        126,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_85",
+      "n": 6,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        32,
+        94,
+        66,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_85",
+      "n": 6,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        16,
+        26,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_91",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        132,
+        222,
+        110,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_91",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        60,
+        54,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_91",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        18,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_91",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_96",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        132,
+        222,
+        110,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_96",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        60,
+        54,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_96",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        18,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_96",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_99",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        150,
+        231,
+        111,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_99",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        66,
+        55,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_99",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        19,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_99",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_121",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        90,
+        177,
+        97,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_121",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        42,
+        45,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_121",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        13,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_121",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_146",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        48,
+        132,
+        84,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_146",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_146",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        8,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_146",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 1,
+      "nu": 0,
+      "coefficients_ascending": [
+        720,
+        4320,
+        5400,
+        2400,
+        450,
+        36,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 2,
+      "nu": 0,
+      "coefficients_ascending": [
+        720,
+        1800,
+        1200,
+        300,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 3,
+      "nu": 0,
+      "coefficients_ascending": [
+        360,
+        480,
+        180,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 4,
+      "nu": 0,
+      "coefficients_ascending": [
+        120,
+        90,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 5,
+      "nu": 0,
+      "coefficients_ascending": [
+        30,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 6,
+      "nu": 0,
+      "coefficients_ascending": [
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_209",
+      "n": 7,
+      "j": 7,
+      "nu": 0,
+      "coefficients_ascending": [
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 0
+    },
+    {
+      "name": "atlas_210",
+      "n": 7,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        600,
+        3720,
+        4800,
+        2200,
+        425,
+        35,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_210",
+      "n": 7,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        600,
+        1560,
+        1080,
+        280,
+        29,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_210",
+      "n": 7,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        300,
+        420,
+        165,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_210",
+      "n": 7,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        100,
+        80,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_210",
+      "n": 7,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        25,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_210",
+      "n": 7,
+      "j": 6,
+      "nu": 1,
+      "coefficients_ascending": [
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_211",
+      "n": 7,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        480,
+        3120,
+        4200,
+        2000,
+        400,
+        34,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_211",
+      "n": 7,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        480,
+        1320,
+        960,
+        260,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_211",
+      "n": 7,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        240,
+        360,
+        150,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_211",
+      "n": 7,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        80,
+        70,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_211",
+      "n": 7,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        20,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_211",
+      "n": 7,
+      "j": 6,
+      "nu": 1,
+      "coefficients_ascending": [
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_212",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        504,
+        3216,
+        4272,
+        2016,
+        401,
+        34,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_212",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        504,
+        1356,
+        972,
+        261,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_212",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        252,
+        368,
+        151,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_212",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        84,
+        71,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_212",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        21,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_214",
+      "n": 7,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        360,
+        2520,
+        3600,
+        1800,
+        375,
+        33,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_214",
+      "n": 7,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        360,
+        1080,
+        840,
+        240,
+        27,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_214",
+      "n": 7,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        180,
+        300,
+        135,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_214",
+      "n": 7,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        60,
+        60,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_214",
+      "n": 7,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        15,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_214",
+      "n": 7,
+      "j": 6,
+      "nu": 1,
+      "coefficients_ascending": [
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_215",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        384,
+        2616,
+        3672,
+        1816,
+        376,
+        33,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_215",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        384,
+        1116,
+        852,
+        241,
+        27,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_215",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        192,
+        308,
+        136,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_215",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        64,
+        61,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_215",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        16,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_216",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        408,
+        2712,
+        3744,
+        1832,
+        377,
+        33,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_216",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        408,
+        1152,
+        864,
+        242,
+        27,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_216",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        204,
+        316,
+        137,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_216",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        68,
+        62,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_216",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        17,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_217",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        426,
+        2790,
+        3807,
+        1847,
+        378,
+        33,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_217",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        426,
+        1182,
+        875,
+        243,
+        27,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_217",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        213,
+        323,
+        138,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_217",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        71,
+        63,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_219",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        288,
+        2112,
+        3144,
+        1632,
+        352,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_219",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        288,
+        912,
+        744,
+        222,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_219",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        256,
+        122,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_219",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        52,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_219",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_220",
+      "n": 7,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        240,
+        1920,
+        3000,
+        1600,
+        350,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_220",
+      "n": 7,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        240,
+        840,
+        720,
+        220,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_220",
+      "n": 7,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        120,
+        240,
+        120,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_220",
+      "n": 7,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        40,
+        50,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_220",
+      "n": 7,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        10,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_220",
+      "n": 7,
+      "j": 6,
+      "nu": 1,
+      "coefficients_ascending": [
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_221",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        288,
+        2112,
+        3144,
+        1632,
+        352,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_221",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        288,
+        912,
+        744,
+        222,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_221",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        256,
+        122,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_221",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        52,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_221",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_222",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        312,
+        2208,
+        3216,
+        1648,
+        353,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_222",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        312,
+        948,
+        756,
+        223,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_222",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        156,
+        264,
+        123,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_222",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        52,
+        53,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_222",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        13,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_224",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        312,
+        2208,
+        3216,
+        1648,
+        353,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_224",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        312,
+        948,
+        756,
+        223,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_224",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        156,
+        264,
+        123,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_224",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        52,
+        53,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_224",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        13,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_225",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        330,
+        2286,
+        3279,
+        1663,
+        354,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_225",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        330,
+        978,
+        767,
+        224,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_225",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        165,
+        271,
+        124,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_225",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        55,
+        54,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_226",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        336,
+        2304,
+        3288,
+        1664,
+        354,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_226",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        336,
+        984,
+        768,
+        224,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_226",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        168,
+        272,
+        124,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_226",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        56,
+        54,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_226",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        14,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_227",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        348,
+        2364,
+        3342,
+        1678,
+        355,
+        32,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_227",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        348,
+        1008,
+        778,
+        225,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_227",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        174,
+        278,
+        125,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_227",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        58,
+        55,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_232",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        1704,
+        2688,
+        1464,
+        329,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_232",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        744,
+        648,
+        204,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_232",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        108,
+        212,
+        109,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_232",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        44,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_232",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_234",
+      "n": 7,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        120,
+        1320,
+        2400,
+        1400,
+        325,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_234",
+      "n": 7,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        120,
+        600,
+        600,
+        200,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_234",
+      "n": 7,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        60,
+        180,
+        105,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_234",
+      "n": 7,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        20,
+        40,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_234",
+      "n": 7,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        5,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_234",
+      "n": 7,
+      "j": 6,
+      "nu": 1,
+      "coefficients_ascending": [
+        1,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_235",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        192,
+        1608,
+        2616,
+        1448,
+        328,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_235",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        192,
+        708,
+        636,
+        203,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_235",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        204,
+        108,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_235",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        32,
+        43,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_235",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_236",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        1704,
+        2688,
+        1464,
+        329,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_236",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        744,
+        648,
+        204,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_236",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        108,
+        212,
+        109,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_236",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        44,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_236",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_237",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        240,
+        1800,
+        2760,
+        1480,
+        330,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_237",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        240,
+        780,
+        660,
+        205,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_237",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        120,
+        220,
+        110,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_237",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        40,
+        45,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_237",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        10,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_242",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        252,
+        1860,
+        2814,
+        1494,
+        331,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_242",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        252,
+        804,
+        670,
+        206,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_242",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        126,
+        226,
+        111,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_242",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        42,
+        46,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_243",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        1704,
+        2688,
+        1464,
+        329,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_243",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        744,
+        648,
+        204,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_243",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        108,
+        212,
+        109,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_243",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        44,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_243",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_244",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        252,
+        1860,
+        2814,
+        1494,
+        331,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_244",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        252,
+        804,
+        670,
+        206,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_244",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        126,
+        226,
+        111,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_244",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        42,
+        46,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_245",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        264,
+        1896,
+        2832,
+        1496,
+        331,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_245",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        264,
+        816,
+        672,
+        206,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_245",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        132,
+        228,
+        111,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_245",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        44,
+        46,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_245",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        11,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_246",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        270,
+        1938,
+        2877,
+        1509,
+        332,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_246",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        270,
+        834,
+        681,
+        207,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_246",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        135,
+        233,
+        112,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_246",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        45,
+        47,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_247",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        276,
+        1956,
+        2886,
+        1510,
+        332,
+        31,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_247",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        276,
+        840,
+        682,
+        207,
+        25,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_247",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        138,
+        234,
+        112,
+        19,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_247",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        46,
+        47,
+        13,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_254",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        1296,
+        2232,
+        1296,
+        306,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_254",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        576,
+        552,
+        186,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_254",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        168,
+        96,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_254",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_254",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_259",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        1296,
+        2232,
+        1296,
+        306,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_259",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        576,
+        552,
+        186,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_259",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        168,
+        96,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_259",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_259",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_263",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        168,
+        1392,
+        2304,
+        1312,
+        307,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_263",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        168,
+        612,
+        564,
+        187,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_263",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        84,
+        176,
+        97,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_263",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        28,
+        37,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_263",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_270",
+      "n": 7,
+      "j": 1,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        720,
+        1800,
+        1200,
+        300,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_270",
+      "n": 7,
+      "j": 2,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        360,
+        480,
+        180,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_270",
+      "n": 7,
+      "j": 3,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        120,
+        90,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_270",
+      "n": 7,
+      "j": 4,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        30,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_270",
+      "n": 7,
+      "j": 5,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_270",
+      "n": 7,
+      "j": 6,
+      "nu": 1,
+      "coefficients_ascending": [
+        0,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 1
+    },
+    {
+      "name": "atlas_271",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        1104,
+        2088,
+        1264,
+        304,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_271",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        504,
+        528,
+        184,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_271",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        152,
+        94,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_271",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        16,
+        34,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_271",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_272",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        1296,
+        2232,
+        1296,
+        306,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_272",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        576,
+        552,
+        186,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_272",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        168,
+        96,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_272",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_272",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_274",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        168,
+        1392,
+        2304,
+        1312,
+        307,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_274",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        168,
+        612,
+        564,
+        187,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_274",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        84,
+        176,
+        97,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_274",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        28,
+        37,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_274",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_278",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        192,
+        1488,
+        2376,
+        1328,
+        308,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_278",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        192,
+        648,
+        576,
+        188,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_278",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        184,
+        98,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_278",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        32,
+        38,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_278",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_281",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        192,
+        1512,
+        2412,
+        1340,
+        309,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_281",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        192,
+        660,
+        584,
+        189,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_281",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        96,
+        188,
+        99,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_281",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        32,
+        39,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_288",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        216,
+        1608,
+        2484,
+        1356,
+        310,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_288",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        216,
+        696,
+        596,
+        190,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_288",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        108,
+        196,
+        100,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_288",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        36,
+        40,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_304",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        984,
+        1848,
+        1144,
+        284,
+        29,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_304",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        444,
+        468,
+        169,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_304",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        132,
+        84,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_304",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        16,
+        29,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_304",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_319",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        888,
+        1776,
+        1128,
+        283,
+        29,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_319",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        408,
+        456,
+        168,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_319",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        124,
+        83,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_319",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        28,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_319",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_325",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        120,
+        1080,
+        1920,
+        1160,
+        285,
+        29,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_325",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        120,
+        480,
+        480,
+        170,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_325",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        60,
+        140,
+        85,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_325",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        20,
+        30,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_325",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        5,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_347",
+      "n": 7,
+      "j": 1,
+      "nu": 3,
+      "coefficients_ascending": [
+        132,
+        1164,
+        2010,
+        1186,
+        287,
+        29,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_347",
+      "n": 7,
+      "j": 2,
+      "nu": 3,
+      "coefficients_ascending": [
+        132,
+        516,
+        498,
+        172,
+        23,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_347",
+      "n": 7,
+      "j": 3,
+      "nu": 3,
+      "coefficients_ascending": [
+        66,
+        150,
+        87,
+        17,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_347",
+      "n": 7,
+      "j": 4,
+      "nu": 3,
+      "coefficients_ascending": [
+        22,
+        32,
+        11,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_370",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        672,
+        1464,
+        992,
+        262,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_370",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        312,
+        384,
+        152,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_370",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        96,
+        72,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_370",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        22,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_370",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_392",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        672,
+        1464,
+        992,
+        262,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_392",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        312,
+        384,
+        152,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_392",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        96,
+        72,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_392",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        22,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_392",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_396",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        768,
+        1536,
+        1008,
+        263,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_396",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        348,
+        396,
+        153,
+        22,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_396",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        104,
+        73,
+        16,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_396",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        23,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_396",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_507",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        456,
+        1152,
+        856,
+        241,
+        27,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_507",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        216,
+        312,
+        136,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_507",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        68,
+        61,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_507",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        16,
+        9,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_507",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "atlas_670",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        240,
+        840,
+        720,
+        220,
+        26,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "atlas_670",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        120,
+        240,
+        120,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "atlas_670",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        40,
+        50,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "atlas_670",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        10,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "atlas_670",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        0,
+        2,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_1_1",
+      "n": 4,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        7,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_1_1",
+      "n": 4,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        1,
+        3,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_1_2",
+      "n": 5,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        32,
+        38,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_1_2",
+      "n": 5,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        14,
+        8,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_1_2",
+      "n": 5,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        2,
+        4,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_1_3",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        174,
+        267,
+        123,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_1_3",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        78,
+        63,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_1_3",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        23,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_1_3",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        3,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_1_4",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        1104,
+        2088,
+        1264,
+        304,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_1_4",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        96,
+        504,
+        528,
+        184,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_1_4",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        48,
+        152,
+        94,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_1_4",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        16,
+        34,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_1_4",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_1_5",
+      "n": 8,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        600,
+        8040,
+        18120,
+        13600,
+        4325,
+        635,
+        42,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_1_5",
+      "n": 8,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        600,
+        3720,
+        4800,
+        2200,
+        425,
+        35,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_1_5",
+      "n": 8,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        300,
+        1140,
+        915,
+        257,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_1_5",
+      "n": 8,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        100,
+        260,
+        131,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_1_5",
+      "n": 8,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        25,
+        47,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_1_5",
+      "n": 8,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        5,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        4320,
+        66240,
+        173520,
+        155520,
+        61500,
+        11976,
+        1182,
+        56,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        4320,
+        30960,
+        47520,
+        27000,
+        6900,
+        846,
+        48,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        2160,
+        9600,
+        9480,
+        3504,
+        566,
+        40,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        720,
+        2220,
+        1452,
+        342,
+        32,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        180,
+        408,
+        174,
+        24,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        62,
+        16,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_1_6",
+      "n": 9,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        8,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_2_2",
+      "n": 6,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        192,
+        276,
+        124,
+        20,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_2_2",
+      "n": 6,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        84,
+        64,
+        15,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_2_2",
+      "n": 6,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        24,
+        10,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_2_2",
+      "n": 6,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        4,
+        5,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_2_3",
+      "n": 7,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        1296,
+        2232,
+        1296,
+        306,
+        30,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_2_3",
+      "n": 7,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        576,
+        552,
+        186,
+        24,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_2_3",
+      "n": 7,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        168,
+        96,
+        18,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_2_3",
+      "n": 7,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        36,
+        12,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_2_3",
+      "n": 7,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        6,
+        6,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_2_4",
+      "n": 8,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        960,
+        9840,
+        19920,
+        14200,
+        4400,
+        638,
+        42,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_2_4",
+      "n": 8,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        960,
+        4440,
+        5160,
+        2260,
+        428,
+        35,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_2_4",
+      "n": 8,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        480,
+        1320,
+        960,
+        260,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_2_4",
+      "n": 8,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        160,
+        290,
+        134,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_2_4",
+      "n": 8,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        40,
+        50,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_2_4",
+      "n": 8,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        8,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        7200,
+        83520,
+        195120,
+        165120,
+        63300,
+        12120,
+        1186,
+        56,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        7200,
+        38160,
+        52320,
+        28200,
+        7020,
+        850,
+        48,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        3600,
+        11520,
+        10200,
+        3600,
+        570,
+        40,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        1200,
+        2580,
+        1524,
+        346,
+        32,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        300,
+        456,
+        178,
+        24,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        60,
+        66,
+        16,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_2_5",
+      "n": 9,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        10,
+        8,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        60480,
+        786240,
+        2086560,
+        2046240,
+        934920,
+        222264,
+        28812,
+        2028,
+        72,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        60480,
+        362880,
+        574560,
+        367920,
+        113400,
+        18144,
+        1524,
+        63,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        30240,
+        110880,
+        115920,
+        50400,
+        10500,
+        1092,
+        54,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        10080,
+        25200,
+        18144,
+        5376,
+        732,
+        45,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        2520,
+        4536,
+        2268,
+        444,
+        36,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        504,
+        672,
+        228,
+        27,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        84,
+        84,
+        18,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_2_6",
+      "n": 10,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        9,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_3_3",
+      "n": 8,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        1080,
+        10440,
+        20520,
+        14400,
+        4425,
+        639,
+        42,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_3_3",
+      "n": 8,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        1080,
+        4680,
+        5280,
+        2280,
+        429,
+        35,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_3_3",
+      "n": 8,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        540,
+        1380,
+        975,
+        261,
+        28,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_3_3",
+      "n": 8,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        180,
+        300,
+        135,
+        21,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_3_3",
+      "n": 8,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        45,
+        51,
+        14,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_3_3",
+      "n": 8,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        9,
+        7,
+        1
+      ],
+      "direct_board": true,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        8640,
+        92160,
+        205920,
+        169920,
+        64200,
+        12192,
+        1188,
+        56,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        8640,
+        41760,
+        54720,
+        28800,
+        7080,
+        852,
+        48,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        4320,
+        12480,
+        10560,
+        3648,
+        572,
+        40,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        1440,
+        2760,
+        1560,
+        348,
+        32,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        360,
+        480,
+        180,
+        24,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        72,
+        68,
+        16,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_3_4",
+      "n": 9,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        12,
+        8,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        75600,
+        892080,
+        2245320,
+        2134440,
+        956970,
+        224910,
+        28959,
+        2031,
+        72,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        75600,
+        408240,
+        612360,
+        380520,
+        115290,
+        18270,
+        1527,
+        63,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        37800,
+        123480,
+        122220,
+        51660,
+        10605,
+        1095,
+        54,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        12600,
+        27720,
+        18900,
+        5460,
+        735,
+        45,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        3150,
+        4914,
+        2331,
+        447,
+        36,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        630,
+        714,
+        231,
+        27,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        105,
+        87,
+        18,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_3_5",
+      "n": 10,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        15,
+        9,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        725760,
+        9434880,
+        26490240,
+        28546560,
+        14817600,
+        4148928,
+        663264,
+        61632,
+        3258,
+        90,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        725760,
+        4354560,
+        7378560,
+        5292000,
+        1905120,
+        373968,
+        41328,
+        2538,
+        80,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        362880,
+        1330560,
+        1512000,
+        756000,
+        191520,
+        26064,
+        1908,
+        70,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        120960,
+        302400,
+        241920,
+        85680,
+        15120,
+        1368,
+        60,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        30240,
+        54432,
+        31248,
+        7776,
+        918,
+        50,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        6048,
+        8064,
+        3312,
+        558,
+        40,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        1008,
+        1008,
+        288,
+        30,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        144,
+        108,
+        20,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_3_6",
+      "n": 11,
+      "j": 9,
+      "nu": 2,
+      "coefficients_ascending": [
+        18,
+        10,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        80640,
+        927360,
+        2298240,
+        2163840,
+        964320,
+        225792,
+        29008,
+        2032,
+        72,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        80640,
+        423360,
+        624960,
+        384720,
+        115920,
+        18312,
+        1528,
+        63,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        40320,
+        127680,
+        124320,
+        52080,
+        10640,
+        1096,
+        54,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        13440,
+        28560,
+        19152,
+        5488,
+        736,
+        45,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        3360,
+        5040,
+        2352,
+        448,
+        36,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        672,
+        728,
+        232,
+        27,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        112,
+        88,
+        18,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_4_4",
+      "n": 10,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        16,
+        9,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        806400,
+        10080000,
+        27619200,
+        29299200,
+        15052800,
+        4186560,
+        666400,
+        61760,
+        3260,
+        90,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        806400,
+        4636800,
+        7660800,
+        5409600,
+        1928640,
+        376320,
+        41440,
+        2540,
+        80,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        403200,
+        1411200,
+        1562400,
+        769440,
+        193200,
+        26160,
+        1910,
+        70,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        134400,
+        319200,
+        248640,
+        86800,
+        15200,
+        1370,
+        60,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        33600,
+        57120,
+        31920,
+        7840,
+        920,
+        50,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        6720,
+        8400,
+        3360,
+        560,
+        40,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        1120,
+        1040,
+        290,
+        30,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        160,
+        110,
+        20,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_4_5",
+      "n": 11,
+      "j": 9,
+      "nu": 2,
+      "coefficients_ascending": [
+        20,
+        10,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        8709120,
+        118298880,
+        356348160,
+        421303680,
+        245306880,
+        78998976,
+        14986944,
+        1725408,
+        120744,
+        4974,
+        110,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        8709120,
+        54794880,
+        100517760,
+        80196480,
+        33022080,
+        7662816,
+        1046304,
+        84888,
+        3984,
+        99,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        4354560,
+        16813440,
+        20926080,
+        11854080,
+        3528000,
+        590688,
+        56952,
+        3104,
+        88,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        1451520,
+        3840480,
+        3417120,
+        1406160,
+        303120,
+        35946,
+        2334,
+        77,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        362880,
+        695520,
+        453600,
+        136080,
+        20880,
+        1674,
+        66,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        72576,
+        103824,
+        49968,
+        10764,
+        1124,
+        55,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        12096,
+        13104,
+        4608,
+        684,
+        44,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        1728,
+        1422,
+        354,
+        33,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 9,
+      "nu": 2,
+      "coefficients_ascending": [
+        216,
+        134,
+        22,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_4_6",
+      "n": 12,
+      "j": 10,
+      "nu": 2,
+      "coefficients_ascending": [
+        24,
+        11,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        9072000,
+        121564800,
+        362880000,
+        426384000,
+        247212000,
+        79380000,
+        15029280,
+        1728000,
+        120825,
+        4975,
+        110,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        9072000,
+        56246400,
+        102211200,
+        81043200,
+        33233760,
+        7691040,
+        1048320,
+        84960,
+        3985,
+        99,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        4536000,
+        17236800,
+        21243600,
+        11959920,
+        3545640,
+        592200,
+        57015,
+        3105,
+        88,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        1512000,
+        3931200,
+        3462480,
+        1416240,
+        304200,
+        36000,
+        2335,
+        77,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        378000,
+        710640,
+        458640,
+        136800,
+        20925,
+        1675,
+        66,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        75600,
+        105840,
+        50400,
+        10800,
+        1125,
+        55,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        12600,
+        13320,
+        4635,
+        685,
+        44,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        1800,
+        1440,
+        355,
+        33,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 9,
+      "nu": 2,
+      "coefficients_ascending": [
+        225,
+        135,
+        22,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_5_5",
+      "n": 12,
+      "j": 10,
+      "nu": 2,
+      "coefficients_ascending": [
+        25,
+        11,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        108864000,
+        1567641600,
+        5083948800,
+        6568128000,
+        4245696000,
+        1545868800,
+        339111360,
+        46500480,
+        4041900,
+        220800,
+        7290,
+        132,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 12
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        108864000,
+        729388800,
+        1451520000,
+        1279152000,
+        593308800,
+        158760000,
+        25764480,
+        2592000,
+        161100,
+        5970,
+        120,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        54432000,
+        224985600,
+        306633600,
+        194503680,
+        66467520,
+        13184640,
+        1572480,
+        113280,
+        4782,
+        108,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        18144000,
+        51710400,
+        50984640,
+        23919840,
+        6078240,
+        888300,
+        76020,
+        3726,
+        96,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        4536000,
+        9434880,
+        6924960,
+        2427840,
+        456300,
+        48000,
+        2802,
+        84,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        907200,
+        1421280,
+        786240,
+        205200,
+        27900,
+        2010,
+        72,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        151200,
+        181440,
+        75600,
+        14400,
+        1350,
+        60,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        21600,
+        19980,
+        6180,
+        822,
+        48,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 9,
+      "nu": 2,
+      "coefficients_ascending": [
+        2700,
+        1920,
+        426,
+        36,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 10,
+      "nu": 2,
+      "coefficients_ascending": [
+        300,
+        162,
+        24,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_5_6",
+      "n": 13,
+      "j": 11,
+      "nu": 2,
+      "coefficients_ascending": [
+        30,
+        12,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 1,
+      "nu": 2,
+      "coefficients_ascending": [
+        1437004800,
+        22034073600,
+        76879756800,
+        108014860800,
+        76839840000,
+        31218929280,
+        7771800960,
+        1235710080,
+        128197080,
+        8712000,
+        381876,
+        10332,
+        156,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 13
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 2,
+      "nu": 2,
+      "coefficients_ascending": [
+        1437004800,
+        10298534400,
+        22193740800,
+        21455280000,
+        11076912000,
+        3357002880,
+        630685440,
+        75628080,
+        5841000,
+        287100,
+        8616,
+        143,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 12
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 3,
+      "nu": 2,
+      "coefficients_ascending": [
+        718502400,
+        3193344000,
+        4750099200,
+        3341036160,
+        1289312640,
+        295384320,
+        41912640,
+        3746160,
+        209484,
+        7056,
+        130,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 4,
+      "nu": 2,
+      "coefficients_ascending": [
+        239500800,
+        738460800,
+        802327680,
+        423118080,
+        123742080,
+        21455280,
+        2273040,
+        147312,
+        5652,
+        117,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 5,
+      "nu": 2,
+      "coefficients_ascending": [
+        59875200,
+        135717120,
+        111101760,
+        44573760,
+        9896040,
+        1284360,
+        98868,
+        4404,
+        104,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 6,
+      "nu": 2,
+      "coefficients_ascending": [
+        11975040,
+        20623680,
+        12925440,
+        3956040,
+        660000,
+        62436,
+        3312,
+        91,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 7,
+      "nu": 2,
+      "coefficients_ascending": [
+        1995840,
+        2661120,
+        1283040,
+        297000,
+        36300,
+        2376,
+        78,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 8,
+      "nu": 2,
+      "coefficients_ascending": [
+        285120,
+        297000,
+        109560,
+        18744,
+        1596,
+        65,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 9,
+      "nu": 2,
+      "coefficients_ascending": [
+        35640,
+        29040,
+        8052,
+        972,
+        52,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 10,
+      "nu": 2,
+      "coefficients_ascending": [
+        3960,
+        2508,
+        504,
+        39,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 11,
+      "nu": 2,
+      "coefficients_ascending": [
+        396,
+        192,
+        26,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 3
+    },
+    {
+      "name": "D_6_6",
+      "n": 14,
+      "j": 12,
+      "nu": 2,
+      "coefficients_ascending": [
+        36,
+        13,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 2
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 1,
+      "nu": 4,
+      "coefficients_ascending": [
+        14071680,
+        171642240,
+        475050240,
+        525020160,
+        289618560,
+        89310144,
+        16364432,
+        1832592,
+        125483,
+        5083,
+        111,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 2,
+      "nu": 4,
+      "coefficients_ascending": [
+        14071680,
+        78785280,
+        132088320,
+        98232960,
+        38277120,
+        8505504,
+        1122704,
+        88736,
+        4083,
+        100,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 3,
+      "nu": 4,
+      "coefficients_ascending": [
+        7035840,
+        23916480,
+        27042960,
+        14238000,
+        4006520,
+        642712,
+        59999,
+        3193,
+        89,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 4,
+      "nu": 4,
+      "coefficients_ascending": [
+        2345280,
+        5392800,
+        4330032,
+        1651328,
+        336456,
+        38282,
+        2413,
+        78,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 5,
+      "nu": 4,
+      "coefficients_ascending": [
+        586320,
+        961296,
+        561456,
+        155696,
+        22595,
+        1743,
+        67,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 6,
+      "nu": 4,
+      "coefficients_ascending": [
+        117264,
+        140672,
+        60112,
+        11948,
+        1183,
+        56,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 7,
+      "nu": 4,
+      "coefficients_ascending": [
+        19544,
+        17304,
+        5351,
+        733,
+        45,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "n": 12,
+      "j": 8,
+      "nu": 4,
+      "coefficients_ascending": [
+        2792,
+        1814,
+        393,
+        34,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 1,
+      "nu": 4,
+      "coefficients_ascending": [
+        2106155520,
+        30074042880,
+        98921813760,
+        132322740480,
+        90348410880,
+        35469052416,
+        8580164544,
+        1331995968,
+        135470124,
+        9056924,
+        391738,
+        10486,
+        157,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 13
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 2,
+      "nu": 4,
+      "coefficients_ascending": [
+        2106155520,
+        13983943680,
+        28312623360,
+        26002529280,
+        12869176320,
+        3766646016,
+        687645504,
+        80543808,
+        6102924,
+        295400,
+        8758,
+        144,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 12
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 3,
+      "nu": 4,
+      "coefficients_ascending": [
+        1053077760,
+        4310288640,
+        6000583680,
+        4000389120,
+        1478131200,
+        326930688,
+        45089352,
+        3939384,
+        216354,
+        7186,
+        131,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 4,
+      "nu": 4,
+      "coefficients_ascending": [
+        351025920,
+        989815680,
+        1002153600,
+        499705920,
+        139775040,
+        23394456,
+        2410544,
+        152884,
+        5770,
+        118,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 5,
+      "nu": 4,
+      "coefficients_ascending": [
+        87756480,
+        180411840,
+        136956960,
+        51821280,
+        10994220,
+        1377804,
+        103274,
+        4510,
+        105,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 6,
+      "nu": 4,
+      "coefficients_ascending": [
+        17551296,
+        27143424,
+        15687648,
+        4516704,
+        719724,
+        65808,
+        3406,
+        92,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 7,
+      "nu": 4,
+      "coefficients_ascending": [
+        2925216,
+        3459744,
+        1528488,
+        332024,
+        38770,
+        2458,
+        79,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 8,
+      "nu": 4,
+      "coefficients_ascending": [
+        417888,
+        380232,
+        127584,
+        20444,
+        1666,
+        66,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 9,
+      "nu": 4,
+      "coefficients_ascending": [
+        52236,
+        36444,
+        9114,
+        1030,
+        53,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 5
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "n": 14,
+      "j": 10,
+      "nu": 4,
+      "coefficients_ascending": [
+        5804,
+        3064,
+        550,
+        40,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 4
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 1,
+      "nu": 6,
+      "coefficients_ascending": [
+        34198133760,
+        513760826880,
+        1790728410240,
+        2559219653760,
+        1884830505600,
+        807191874048,
+        215930274784,
+        37701318752,
+        4407338528,
+        348736780,
+        18615599,
+        656623,
+        14588,
+        184,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 14
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 2,
+      "nu": 6,
+      "coefficients_ascending": [
+        34198133760,
+        239781346560,
+        516982354560,
+        510559324800,
+        274854236160,
+        88722939648,
+        18172476448,
+        2441105288,
+        218470360,
+        13026642,
+        508087,
+        12378,
+        170,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 13
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 3,
+      "nu": 6,
+      "coefficients_ascending": [
+        17099066880,
+        74227426560,
+        110688732000,
+        79974118560,
+        32480019600,
+        8034702864,
+        1267221698,
+        130431510,
+        8803885,
+        383887,
+        10350,
+        156,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 12
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 4,
+      "nu": 6,
+      "coefficients_ascending": [
+        5699688960,
+        17131934400,
+        18711359520,
+        10210459840,
+        3181365680,
+        606667148,
+        73394950,
+        5703656,
+        281839,
+        8504,
+        142,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 11
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 5,
+      "nu": 6,
+      "coefficients_ascending": [
+        1424922240,
+        3141402432,
+        2594992848,
+        1087923856,
+        261680228,
+        38331880,
+        3506307,
+        199759,
+        6840,
+        128,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 10
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 6,
+      "nu": 6,
+      "coefficients_ascending": [
+        284984448,
+        476069664,
+        302703312,
+        98152568,
+        18169740,
+        2016214,
+        135463,
+        5358,
+        114,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 9
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 7,
+      "nu": 6,
+      "coefficients_ascending": [
+        47497408,
+        61224608,
+        30184838,
+        7551970,
+        1061777,
+        86767,
+        4058,
+        100,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 8
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 8,
+      "nu": 6,
+      "coefficients_ascending": [
+        6785344,
+        6804908,
+        2597770,
+        495420,
+        51487,
+        2940,
+        86,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 7
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "n": 15,
+      "j": 9,
+      "nu": 6,
+      "coefficients_ascending": [
+        848168,
+        661860,
+        193591,
+        27439,
+        2004,
+        72,
+        1
+      ],
+      "direct_board": false,
+      "exact_nonpositive_roots": 6
+    }
+  ],
+  "union_chromatic_examples": [
+    {
+      "name": "union_[(2, 2), (2, 2)]",
+      "P_residual": "x**4 + 28*x**3 + 302*x**2 + 1483*x + 2792",
+      "residual_degree": 4,
+      "real_root_count": 0
+    },
+    {
+      "name": "union_[(2, 3), (1, 4)]",
+      "P_residual": "x**4 + 34*x**3 + 441*x**2 + 2588*x + 5804",
+      "residual_degree": 4,
+      "real_root_count": 0
+    },
+    {
+      "name": "union_[(2, 2), (1, 1), (1, 2)]",
+      "P_residual": "x**6 + 57*x**5 + 1369*x**4 + 17710*x**3 + 129992*x**2 + 512731*x + 848168",
+      "residual_degree": 6,
+      "real_root_count": 0
+    }
+  ]
+}

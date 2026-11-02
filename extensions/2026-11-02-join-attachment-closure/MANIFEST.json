@@ -1,0 +1,18 @@
+{
+  "algorithm": "SHA-256",
+  "sha256": {
+    "INDEPENDENT_REVIEW.md": "9729964a44001df1aca329bc12c9c5832f0002c7ca3abf6fcadbe360ea3d35d0",
+    "README.md": "5f4c3d302df1c98f32cbe84652185c50ef272890d53d26188e534e6c560fd171",
+    "RESEARCH_NOTE.md": "55f5e856583b7d78024915d5d2028926b8b5e4a3be4ee55033ae56258c16fe78",
+    "certificate.json": "483c5156eb777326e30d09ad38004b1ed38362d863b5d422df10852fb2cb668a",
+    "graph_certificate.json": "565b20f36c8e4d6bc30570b4255eef830efad1705ae86c25b308b341539d7301",
+    "graph_check.log": "2d7cc22574e7c25226b04d81293c159efe07172c02057c595be4cbef6b1ec424",
+    "graph_check.py": "c99a432c807cd47c1d3dd65a3127bbaa4ef00da06312e8b6130e3f9a6f7bc7ad",
+    "requirements.txt": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc",
+    "review_check.log": "b7b54888761917ae727a5d34e20ec7fb88bf4172a89b06afaa1f67538ac3e4cd",
+    "review_check.py": "d49ce4a25e08c7314c8fa9983c3da2555c7ba8a39ff3f6b07ccc4e2fc4185b40",
+    "run.log": "c69f5e4eb13597008a8cdeae70b633cca5556ed14886c092b2f90303fd4693ec",
+    "run_all.py": "a6e6a4972bc25acc6da744d2761e17db3e312194d3a87f399b0f12aeaa0b9bc5",
+    "verify.py": "f9b458f5b4b3d380e743d94fe50b5c4d4aea0a41d554dbe11075fe5c9e150588"
+  }
+}

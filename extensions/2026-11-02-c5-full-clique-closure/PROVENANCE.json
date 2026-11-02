@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-02",
+  "scope": "All-degree m=3 abstract compatibility and full-clique C5 substitution",
+  "python": "3.12.14",
+  "sympy": "1.14.0",
+  "source_proof": "brw_m3_degree_free_20261102/PROOF.md",
+  "source_proof_sha256": "01b40c84934a941e35bfb70e3cf94fc32acb1e87d7b6d4d4e3462a1b637a96f6",
+  "prior_seed_source": "brw_full_cycle_quotient_partial_release_20261102/dependencies/uniform_cycle/RESEARCH_NOTE.md",
+  "prior_seed_sections": "2.1–2.3; reproduced with proof here",
+  "classical_source": {
+    "authors": "Francesco Brenti, Gordon F. Royle, David G. Wagner",
+    "year": 1994,
+    "doi": "10.4153/CJM-1994-002-3",
+    "positions": "Propositions 4.2 and 4.4"
+  },
+  "novelty": "Not claimed; not an exhaustive literature novelty audit",
+  "finite_diagnostics": "164 exact pencil checks; not proof premises",
+  "exploration_excluded": [
+    "random numerical probe",
+    "degree-three discriminant timeout from prior milestone"
+  ]
+}

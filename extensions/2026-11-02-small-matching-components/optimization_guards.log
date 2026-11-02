@@ -1,0 +1,3 @@
+verify.py: PASS rejects -O with RuntimeError: Assertions required; exit=1.
+check_region.py: PASS rejects -O with RuntimeError: Assertions required; exit=1.
+audit/check_independent.py: PASS under -O; explicit non-disableable require checks (see audit/independent_optimized_run.log).
