@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "attempts": 30,
+  "nonzero_test_pairs_passed": 28,
+  "kind": "arbitrary signed-polynomial bilinear identity, independent direct matching kernel",
+  "scope": "finite diagnostics only; universal proof is basis extension"
+}

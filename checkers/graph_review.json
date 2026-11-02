@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "independent_chromatic_subset_graphs": 4,
+  "independent_augmented_weighted_graphs": 5
+}

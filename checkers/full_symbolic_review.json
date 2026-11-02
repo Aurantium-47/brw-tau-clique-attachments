@@ -1,0 +1,7 @@
+{
+  "status": "PASS exact rational identities",
+  "core_matching_vs_P": "zero residual",
+  "unsigned_coloring_derivative": "zero residual",
+  "chromatic_Bell_EGF_vs_matching_EGF": "zero residual",
+  "note": "Stirling composition, not a finite parameter sweep, gives all a,b."
+}

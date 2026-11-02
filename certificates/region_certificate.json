@@ -1,0 +1,15 @@
+{
+  "status": "PASS exact complex rectangle count",
+  "chromatic_quotient": "q**4 - 7*q**3 + 21*q**2 - 30*q + 17",
+  "real_bounds": [
+    "189/100",
+    "19/10"
+  ],
+  "imaginary_bounds": [
+    "31/20",
+    "39/25"
+  ],
+  "root_count": 1,
+  "parabola_expression_upper_bound": "-101/100",
+  "claim": "K3,3 minus one edge is outside closed BRW R_T(0); not novelty certificate"
+}

@@ -1,0 +1,101 @@
+{
+  "description": "Exact checker sources retained unchanged from the reviewed source artifacts. Names refer to mathematical cross-checks; no human peer review or formal verification is asserted.",
+  "source_artifact_sha256": [
+    "c6ddbedb23dea593e076f06c44dd821181f1fac6c2ffd19cac73b5fe08170522",
+    "82f457848abadd2010c9e3db2b213545dc6673189e2c8df9d93ce968ac7f9d3a"
+  ],
+  "files": [
+    {
+      "file": "checkers/verify_bivariate_kernel.py",
+      "sha256": "7c0de6c416db388b8edc559bb15fbaaeb943701a224e381104feeb68dfae4156",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/certify_weighted_kernel.py",
+      "sha256": "69ef261bf0b3be9c5ccdd868219531a2d5215bd9ce09568ac15e65777d442f91",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/check_actual_graphs.py",
+      "sha256": "618da4fce9d552fbe092d2253c925db253b0f71288523a2f8218efed11285308",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/check_strict_scope.py",
+      "sha256": "20ce98792bf84b931c5fcbde04bb7a4eef808732aff486f5134324bed4eef109",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/review_full_symbolic.py",
+      "sha256": "e948c7c591f9b3c15e43c875ef34cd621a9bf8057c6d034333f7e69db5277656",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/region_certificate.py",
+      "sha256": "d33fa63431e7cd7adb0c1e078e93468543ba0543c4ad37915c8d7492b59705ec",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/review_graphs.py",
+      "sha256": "509c120a185a14e051cf5e68ba5f0a9cce404b8bd3adb6405ee83bc4c81ba992",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/review_symbolic.py",
+      "sha256": "d936cb247d04b94cc39f0a12a6af33cb9f3711b882f911989eff42182288a38e",
+      "change": "byte-identical checker; relocated only"
+    },
+    {
+      "file": "checkers/structural_bridge_check.py",
+      "sha256": "5a4523adfdd54113eb384a812368f5d937c4563370ac8bb2fa9bae163f1d9853",
+      "change": "byte-identical checker; relocated only"
+    }
+  ],
+  "original_receipts": [
+    {
+      "file": "certificates/actual_graphs_certificate.json",
+      "sha256": "3dc51b007fcfa51ddaac786ed6acf466aec523283c94a4ad03b1684b0698d705",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/bivariate_verification.json",
+      "sha256": "b7a1dde91d3ffe71f0a05eefc0f882f1295ed3e8cf9f3255bb765179e4344fa0",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/strict_scope_certificate.json",
+      "sha256": "7e54ffe46d2670b110ef0a2c6b631895cc2f1d94bac7d32abe3e2daa39f1b006",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/weighted_kernel_certificate.json",
+      "sha256": "7bfc49db6906546d5a1a2772686183ff05172008516641b04f9cb0e14db59cc8",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/full_symbolic_review.json",
+      "sha256": "2b39ee240c8c6d72ef69543d079709d6624c744c0e4fdd29c1b0a1528599c6e9",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/symbolic_review.json",
+      "sha256": "989ba85cc7ed6b4e25e05cd5e74dcc2a62d66ad3b2cce7c16835cffbad786892",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/graph_review.json",
+      "sha256": "261a6a83a712812809eb56b95ae78893a70a3551f09b70d0660e760195987da7",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/region_certificate.json",
+      "sha256": "627fa53e4f9a25705c74cdae78c0170753b68e9ae975974913f7779a9b8aca75",
+      "change": "byte-identical exact receipt; relocated only"
+    },
+    {
+      "file": "certificates/structural_bridge_results.json",
+      "sha256": "2951f004949fa12ae9194a9e425b5ea50fb15db0074aaa9858bccc958099bc24",
+      "change": "byte-identical exact receipt; relocated only"
+    }
+  ]
+}
