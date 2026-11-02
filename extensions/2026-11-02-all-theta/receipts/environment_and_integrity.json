@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "runner_sha256": "657bd28ff867dcd15fef29290d6cce852b6ca25fe7db896b1ca2161678bbb55c",
+  "python_version": "3.12.14",
+  "sympy_version": "1.14.0",
+  "finite_replay_command": "python verify_all.py --finite",
+  "bernstein_replay_command": "python verify_all.py --bernstein",
+  "deterministic_zip_reconstruction_byte_identical": true,
+  "zip_entry_count": 2460,
+  "zip_sha256": "7d00d29816536c061613f39dede7d188dd7a264e23ea893f496ae29e5f4f8c6f",
+  "no_FLINT_required_for_finite_replay": true
+}

@@ -1,0 +1,6 @@
+{
+  "file": "effective_mixed_certificate.py",
+  "change": "Insert explicit __debug__ rejection immediately after module docstring; no mathematical changes.",
+  "original_sha256": "a086e5b137bdeef59d643631ee0168e8ad1ec5ebb9a5817510da1a8827f0fe76",
+  "packaged_sha256": "e59a2c9abff7e646965015a150c022e9dacc654b683e946762698c73af12c5a3"
+}

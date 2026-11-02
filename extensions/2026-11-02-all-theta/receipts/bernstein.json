@@ -1,0 +1,17 @@
+{
+  "bernstein": {
+    "status": "PASS Bernstein regeneration",
+    "certificates": [
+      {
+        "name": "effective_cubic_certificate",
+        "status": "PASS exact regeneration and mathematical data equality",
+        "coefficient_count": 140
+      },
+      {
+        "name": "effective_mixed_certificate",
+        "status": "PASS exact regeneration and mathematical data equality",
+        "coefficient_count": 5082
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "finite": {
+    "status": "PASS two complete exact finite replays",
+    "first": {
+      "status": "PASS complete finite cover",
+      "sorted_triples": 52394,
+      "analytic_radius": 49934,
+      "exact_certificate_triples": 2460,
+      "missing": 0,
+      "distinct_factor_root_boxes_checked": 83842,
+      "generator_sha256": "9046b953b794b50c5f6112c35dd48bb6ff2a6a581a7ba06cf67e30fe50aabe52",
+      "auditor_sha256": "0f4956c6f046023520a99e4a53df80cddc8ee3f569403a8068237bf8f67dcede",
+      "method": "independent geometric sum/binomial/Stirling coefficients, integer homogeneous rational evaluation, exact factor products; no floating arithmetic"
+    },
+    "second": {
+      "status": "PASS full finite domain",
+      "triples": 2460,
+      "root_occurrences": 83842,
+      "method": "direct binomial/Stirling coefficients, integer Horner rational signs, exact integer factor multiplication",
+      "total": 52394,
+      "analytic_radius_cases": 49934,
+      "exact_sign_cases": 2460
+    },
+    "archive_sha256": "7d00d29816536c061613f39dede7d188dd7a264e23ea893f496ae29e5f4f8c6f"
+  }
+}
