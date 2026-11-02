@@ -1,0 +1,157 @@
+{
+  "checks": 19,
+  "results": [
+    {
+      "case": "P4 plus isolate",
+      "N": 5,
+      "j": 1,
+      "columns": 4,
+      "Q": "z**4 + 13*z**3 + 46*z**2 + 46*z + 8",
+      "exact_roots": 4
+    },
+    {
+      "case": "P4 plus isolate",
+      "N": 5,
+      "j": 2,
+      "columns": 4,
+      "Q": "z**3 + 9*z**2 + 19*z + 8",
+      "exact_roots": 3
+    },
+    {
+      "case": "P4 plus isolate",
+      "N": 5,
+      "j": 3,
+      "columns": 4,
+      "Q": "z**2 + 5*z + 4",
+      "exact_roots": 2
+    },
+    {
+      "case": "C5 plus two isolates",
+      "N": 7,
+      "j": 1,
+      "columns": 6,
+      "Q": "z**6 + 31*z**5 + 330*z**4 + 1480*z**3 + 2760*z**2 + 1800*z + 240",
+      "exact_roots": 6
+    },
+    {
+      "case": "C5 plus two isolates",
+      "N": 7,
+      "j": 2,
+      "columns": 6,
+      "Q": "z**5 + 25*z**4 + 205*z**3 + 660*z**2 + 780*z + 240",
+      "exact_roots": 5
+    },
+    {
+      "case": "C5 plus two isolates",
+      "N": 7,
+      "j": 3,
+      "columns": 6,
+      "Q": "z**4 + 19*z**3 + 110*z**2 + 220*z + 120",
+      "exact_roots": 4
+    },
+    {
+      "case": "C5 plus two isolates",
+      "N": 7,
+      "j": 4,
+      "columns": 6,
+      "Q": "z**3 + 13*z**2 + 45*z + 40",
+      "exact_roots": 3
+    },
+    {
+      "case": "C5 plus two isolates",
+      "N": 7,
+      "j": 5,
+      "columns": 6,
+      "Q": "z**2 + 7*z + 10",
+      "exact_roots": 2
+    },
+    {
+      "case": "K1,3",
+      "N": 4,
+      "j": 1,
+      "columns": 3,
+      "Q": "z**3 + 6*z**2 + 6*z",
+      "exact_roots": 3
+    },
+    {
+      "case": "K1,3",
+      "N": 4,
+      "j": 2,
+      "columns": 3,
+      "Q": "z**2 + 3*z",
+      "exact_roots": 2
+    },
+    {
+      "case": "K1,3",
+      "N": 4,
+      "j": 3,
+      "columns": 3,
+      "Q": "z",
+      "exact_roots": 1
+    },
+    {
+      "case": "three disjoint edges",
+      "N": 6,
+      "j": 1,
+      "columns": 3,
+      "Q": "z**5 + 22*z**4 + 155*z**3 + 410*z**2 + 362*z + 64",
+      "exact_roots": 5
+    },
+    {
+      "case": "three disjoint edges",
+      "N": 6,
+      "j": 2,
+      "columns": 3,
+      "Q": "z**4 + 17*z**3 + 87*z**2 + 149*z + 64",
+      "exact_roots": 4
+    },
+    {
+      "case": "three disjoint edges",
+      "N": 6,
+      "j": 3,
+      "columns": 3,
+      "Q": "z**3 + 12*z**2 + 39*z + 32",
+      "exact_roots": 3
+    },
+    {
+      "case": "rational weighted diagnostic A",
+      "N": 4,
+      "j": 1,
+      "columns": 3,
+      "Q": "z**3 + 7*z**2 + 43*z/4 + 11/4",
+      "exact_roots": 3
+    },
+    {
+      "case": "rational weighted diagnostic A",
+      "N": 4,
+      "j": 2,
+      "columns": 3,
+      "Q": "z**2 + 4*z + 11/4",
+      "exact_roots": 2
+    },
+    {
+      "case": "rational weighted diagnostic B",
+      "N": 5,
+      "j": 1,
+      "columns": 4,
+      "Q": "z**4 + 13*z**3 + 425*z**2/9 + 458*z/9 + 94/9",
+      "exact_roots": 4
+    },
+    {
+      "case": "rational weighted diagnostic B",
+      "N": 5,
+      "j": 2,
+      "columns": 4,
+      "Q": "z**3 + 9*z**2 + 182*z/9 + 94/9",
+      "exact_roots": 3
+    },
+    {
+      "case": "rational weighted diagnostic B",
+      "N": 5,
+      "j": 3,
+      "columns": 4,
+      "Q": "z**2 + 5*z + 47/9",
+      "exact_roots": 2
+    }
+  ]
+}

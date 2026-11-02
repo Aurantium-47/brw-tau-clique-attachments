@@ -22,6 +22,8 @@ Exact mathematical proofs and reproducible computations toward ordinary **τ-rea
 
   **Full-clique subclass with small matching components.** If the complement is bipartite and each connected component has matching number at most two, every actual clique quotient is Bell-real and attachment along every clique preserves ordinary τ-reality; see the [theorem and exact replay](extensions/2026-11-02-small-matching-components/README.md). An exact root rectangle for the 15-vertex example with complement $D(2,2)\sqcup D(1,1)\sqcup D(1,2)$ excludes the direct parabolic-region hypothesis of BRW Proposition 5.13, not all older criteria or historical overlap; single double-star complements already satisfy older chordal/real-chromatic-root criteria.
 
+  **Explicit weighted-star attachment budget.** For a triangle-free complement $H$ with $n$ vertices, $e\ge1$ edges and matching number $\nu$, adding $t\ge\max(0,e+\nu-n)$ isolates gives $N=n+t$ and nonnegative weighted-board realizations of every Bell quotient $1\le j\le N-\nu$, hence universal attachment along every actual clique of its complement; the [proof gives a sharper spectral budget](extensions/2026-11-02-weighted-star-budget/README.md). Eventual closure after joining $K_t$ already follows from BRW Proposition 5.13, the sufficient budget is not claimed optimal or historically new, and the exact star-forest witness separates only the direct root-region hypothesis while already belonging to the cograph class.
+
 - **Anchored incomparability graphs.** A proper partition into $k$ nonempty independent classes, with one selected vertex in each class adjacent to every vertex outside its class, gives real-rooted clique quotients of orders $0$ through $k$, provided the graph is an incomparability graph. These hypotheses require more than a dominating clique. [Precise theorem and verification package at the published version](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/1ecaf2df19a751422a4672a4ccb30aefe8f73f51/extensions/2026-11-02).
 
 - **Complete bipartite graphs minus one edge.** For every $a,b\ge2$, $K_{a,b}-e$ has a real-rooted Bell edge quotient and universal complete-intersection attachment. The initial structural corollary concerns a join with one distinguished edge removed and requires stronger first-quotient hypotheses on its inputs; its attachment conclusion is also limited to clique sizes at most two. [Initial mathematical manuscript](manuscript.md) · [PDF](manuscript.pdf) · [immutable initial release](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/07ff23038f18c4a444555de037e135fc4aead7e0).
@@ -52,6 +54,9 @@ python3 extensions/2026-11-02-paired-rooted-decorations/verify.py
 # Small matching components: supporting quotient and BRW-region checks
 python3 extensions/2026-11-02-small-matching-components/verify.py
 python3 extensions/2026-11-02-small-matching-components/check_region.py
+
+# Weighted-star budget: aggregate supporting exact replay
+python3 extensions/2026-11-02-weighted-star-budget/verify_all.py
 
 # Initial missing-edge theorem and its original structural corollary
 python3 verify_all.py

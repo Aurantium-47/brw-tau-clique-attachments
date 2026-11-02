@@ -1,0 +1,7 @@
+PASS: checkers/verify.py 
+PASS: region/check_region.py 
+PASS: region/check_region.py (optimized)
+PASS: fresh_review/check_fresh.py 
+PASS: fresh_review/check_fresh.py (optimized)
+PASS: release checker rejects disabled assertions
+PASS: 19 weighted-board checks; 6222 labeled graph checks / 46 distinct maximal quotients; exact outside-region witness

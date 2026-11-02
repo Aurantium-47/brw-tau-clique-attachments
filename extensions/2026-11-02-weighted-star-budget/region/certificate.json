@@ -1,0 +1,27 @@
+{
+  "H": "3 disjoint K1,3",
+  "N": 12,
+  "e": 9,
+  "nu": 3,
+  "t": 0,
+  "matching_counts": [
+    1,
+    9,
+    27,
+    27
+  ],
+  "chromatic_residual": "x**3 - 21*x**2 + 155*x - 396",
+  "real_interval": [
+    "359/50",
+    "719/100"
+  ],
+  "imag_interval": [
+    "71/25",
+    "57/20"
+  ],
+  "upper_count": 1,
+  "conjugate_count": 1,
+  "boundary_root_free": true,
+  "outside_margin": "391/625",
+  "qualification": "Direct BRW 5.13 hypothesis fails; complement is a cograph, so no new graphscope or novelty claim"
+}
