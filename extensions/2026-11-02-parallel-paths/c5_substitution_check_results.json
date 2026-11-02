@@ -1,0 +1,54 @@
+{
+  "status": "PASS independent actual-graph edge-subset checks",
+  "cases": [
+    {
+      "input": "empty",
+      "vertices": 4,
+      "edges": 3,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**2 + 2*x + 1"
+    },
+    {
+      "input": "K1",
+      "vertices": 5,
+      "edges": 5,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**3 + 4*x**2 + 6*x + 4"
+    },
+    {
+      "input": "E2",
+      "vertices": 6,
+      "edges": 7,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**4 + 6*x**3 + 15*x**2 + 19*x + 10"
+    },
+    {
+      "input": "K2",
+      "vertices": 6,
+      "edges": 8,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**4 + 7*x**3 + 19*x**2 + 25*x + 14"
+    },
+    {
+      "input": "P3",
+      "vertices": 7,
+      "edges": 11,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**5 + 10*x**4 + 41*x**3 + 87*x**2 + 97*x + 46"
+    },
+    {
+      "input": "K3",
+      "vertices": 7,
+      "edges": 12,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**5 + 11*x**4 + 48*x**3 + 106*x**2 + 122*x + 60"
+    },
+    {
+      "input": "C4",
+      "vertices": 8,
+      "edges": 15,
+      "graphic_and_Bell_identity": "PASS",
+      "edge_quotient": "x**6 + 14*x**5 + 83*x**4 + 265*x**3 + 482*x**2 + 479*x + 206"
+    }
+  ]
+}

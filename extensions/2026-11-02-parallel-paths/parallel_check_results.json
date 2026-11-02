@@ -1,0 +1,115 @@
+{
+  "status": "PASS exact independent checks",
+  "graph_checks": [
+    {
+      "lengths": [
+        2,
+        2
+      ],
+      "vertices": 4,
+      "degree": 2,
+      "actual_graph_formula": "PASS",
+      "trace": -1
+    },
+    {
+      "lengths": [
+        2,
+        3
+      ],
+      "vertices": 5,
+      "degree": 3,
+      "actual_graph_formula": "PASS",
+      "trace": -1
+    },
+    {
+      "lengths": [
+        2,
+        2,
+        3
+      ],
+      "vertices": 6,
+      "degree": 4,
+      "actual_graph_formula": "PASS",
+      "trace": -2
+    },
+    {
+      "lengths": [
+        2,
+        3,
+        3
+      ],
+      "vertices": 7,
+      "degree": 5,
+      "actual_graph_formula": "PASS",
+      "trace": -2
+    },
+    {
+      "lengths": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "vertices": 6,
+      "degree": 4,
+      "actual_graph_formula": "PASS",
+      "trace": -3
+    },
+    {
+      "lengths": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "vertices": 7,
+      "degree": 5,
+      "actual_graph_formula": "PASS",
+      "trace": -3
+    },
+    {
+      "lengths": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "vertices": 7,
+      "degree": 5,
+      "actual_graph_formula": "PASS",
+      "trace": -4
+    }
+  ],
+  "threshold_examples": [
+    {
+      "paths": 2,
+      "sufficient_min_length": 93
+    },
+    {
+      "paths": 3,
+      "sufficient_min_length": 102
+    },
+    {
+      "paths": 4,
+      "sufficient_min_length": 107
+    },
+    {
+      "paths": 5,
+      "sufficient_min_length": 112
+    },
+    {
+      "paths": 10,
+      "sufficient_min_length": 126
+    },
+    {
+      "paths": 100,
+      "sufficient_min_length": 173
+    },
+    {
+      "paths": 1000,
+      "sufficient_min_length": 221
+    }
+  ],
+  "threshold_constant_comparison": "-9/10120"
+}

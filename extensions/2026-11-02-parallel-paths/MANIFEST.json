@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "release": "2026-11-02-parallel-paths",
+  "accepted_scope": [
+    "Parallel paths of arbitrary count under the stated product-radius criterion and sufficient logarithmic minimum-length bound",
+    "Theta(2,2,2,m), all integers m>=2, by arrowhead induction",
+    "One-vertex C5 substitution of any ordinary tau-real input; universal attachment only at clique sizes<=2"
+  ],
+  "limitations": [
+    "Not full BRW Conjecture6.5",
+    "Not all generalized-theta lengths",
+    "Not all-cycle substitution or all-m operator preservation",
+    "No historical priority or human peer-review claim"
+  ],
+  "files": [
+    {
+      "path": "MANUSCRIPT.md",
+      "size": 37353,
+      "sha256": "20c74bf7d627c4b102a24a1a0fa7534a50ca40b7c5eb8e7f9cece0a6c3fd1101"
+    },
+    {
+      "path": "MANUSCRIPT.tex",
+      "size": 45071,
+      "sha256": "afcb5c56dfab3e0d7512488d344ba61769b48a100fafec74672662404e9ca833"
+    },
+    {
+      "path": "PUBLIC_AUDIT.md",
+      "size": 3206,
+      "sha256": "8546a50d916fed90c90fe59860df85d9d18dd6a97be4299c95d2aa93404c94b2"
+    },
+    {
+      "path": "README.md",
+      "size": 5419,
+      "sha256": "18c6c4ccd7bbcd28639f6532b057a71f80141e8a3d71632638e6f845398f8e7d"
+    },
+    {
+      "path": "c5_substitution_check_results.json",
+      "size": 1345,
+      "sha256": "4d18107cc1ec97e21b2e8f0710f674000d2606212c5169821d38442270261cce"
+    },
+    {
+      "path": "certify_short_branch_core.json",
+      "size": 754,
+      "sha256": "01124cc7557946b451aa3e9427f97f1a173be7942cf130cfd35b1e8dac914b88"
+    },
+    {
+      "path": "certify_short_branch_core.py",
+      "size": 2174,
+      "sha256": "87ae5af4f04c929b7d779d053bbab4b82d23d2ab35820de2b7ffda5ecadbd611"
+    },
+    {
+      "path": "check_c5_substitution.py",
+      "size": 1508,
+      "sha256": "1408fdfda57722576e9e5572735c0e8b89572bf2dc170986be6ba8ec7685d55c"
+    },
+    {
+      "path": "check_parallel.py",
+      "size": 1713,
+      "sha256": "562e3eb7f5ea3cc489863e278683d283815c87a0fc0bd3f1b88975cf6342b3cb"
+    },
+    {
+      "path": "check_short_core.py",
+      "size": 1742,
+      "sha256": "361f232465189b9fbb50fcfd00e16ac10d2efd53fda426312858363741fdd34b"
+    },
+    {
+      "path": "effective_cubic_certificate.json",
+      "size": 4372,
+      "sha256": "0c9460b5061b0b6ffa469201e3ad4530e0dead23bf0836c0d391d43dd4bfaaa9"
+    },
+    {
+      "path": "effective_cubic_certificate.py",
+      "size": 1568,
+      "sha256": "3ee8053c0b096b63c7ff7305fee49355835887a3702207f42b32105868cb4175"
+    },
+    {
+      "path": "effective_mixed_certificate.json",
+      "size": 708626,
+      "sha256": "6e4abced5c38bc6de8e2e0c388ee631961c11019ba23a7fb49ed2d4ae6028659"
+    },
+    {
+      "path": "effective_mixed_certificate.py",
+      "size": 2236,
+      "sha256": "e59a2c9abff7e646965015a150c022e9dacc654b683e946762698c73af12c5a3"
+    },
+    {
+      "path": "manuscript.pdf",
+      "size": 114774,
+      "sha256": "134a7511aa7fa8e7080689caef03a17bda01850fc661678d6a00b0a93254a924"
+    },
+    {
+      "path": "parallel_check_results.json",
+      "size": 1821,
+      "sha256": "0715cf139153816a369d08fc66e0973e6dc04b2b07a09976a5e4fcc704f56f33"
+    },
+    {
+      "path": "receipts/bernstein.json",
+      "size": 541,
+      "sha256": "427a396f99ccd0f55c7427dc12f947d43f861842f98378a71e3e88057bdde2ce"
+    },
+    {
+      "path": "receipts/default.json",
+      "size": 1221,
+      "sha256": "bc3f284456736d5b49d93e0a354592192488f99e3fa7c993270f69b70ab6c768"
+    },
+    {
+      "path": "receipts/environment.json",
+      "size": 550,
+      "sha256": "29f6727ce2d1465581d12ac732318d28e890180cdd62d5025f27007d83f2328d"
+    },
+    {
+      "path": "receipts/portability_safety.json",
+      "size": 1685,
+      "sha256": "d3cc68c6fd48b233c6e53d54687f4d280397bf6c12c2c7962c63fca2041d6312"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 14,
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc"
+    },
+    {
+      "path": "short_core_check_results.json",
+      "size": 404,
+      "sha256": "ae42d9cf6ef29cdd52cf0d8b63fe6115283bb8d97d66aee29e2306e1fd01fc7f"
+    },
+    {
+      "path": "source_deltas.json",
+      "size": 2238,
+      "sha256": "d97d57ced2a9f7f161a745938a2fdb226e651e457b07ae74d4dee99abfd6a605"
+    },
+    {
+      "path": "theta222m_exact_base.json",
+      "size": 6590,
+      "sha256": "d51faaee6396253fbb53f54cf96d8c3a609e8e99ae715bcefbd54c103a44514e"
+    },
+    {
+      "path": "theta222m_exact_base.py",
+      "size": 2086,
+      "sha256": "351d8ef10bd81530d1df51db64b7430b379a68f459626549e2d21e28f802b2cd"
+    },
+    {
+      "path": "verify_all.py",
+      "size": 3137,
+      "sha256": "a00b0ca8a2523b91c6688258d9452ad9462f547b68f09a99e4d92937f373d226"
+    }
+  ]
+}

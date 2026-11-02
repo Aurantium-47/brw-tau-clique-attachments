@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "runner_sha256": "a00b0ca8a2523b91c6688258d9452ad9462f547b68f09a99e4d92937f373d226",
+  "python_version": "3.12.14",
+  "sympy_version": "1.14.0",
+  "commands": [
+    "python verify_all.py",
+    "python verify_all.py --bernstein",
+    "python verify_all.py --all (relocated package)"
+  ],
+  "mathematical_output_comparison": "exact JSON equality; only explicitly recorded source hash deltas reconciled",
+  "private_dependencies": false,
+  "numerical_root_dependencies": false,
+  "release_mutation_during_relocated_run": false
+}

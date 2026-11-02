@@ -1,0 +1,32 @@
+{
+  "default": {
+    "status": "PASS exact core, graph interfaces, threshold examples, and arrowhead base",
+    "checks": [
+      {
+        "checker": "certify_short_branch_core.py",
+        "status": "PASS exact regeneration and data equality",
+        "source_sha256": "87ae5af4f04c929b7d779d053bbab4b82d23d2ab35820de2b7ffda5ecadbd611"
+      },
+      {
+        "checker": "check_short_core.py",
+        "status": "PASS exact regeneration and data equality",
+        "source_sha256": "361f232465189b9fbb50fcfd00e16ac10d2efd53fda426312858363741fdd34b"
+      },
+      {
+        "checker": "check_c5_substitution.py",
+        "status": "PASS exact regeneration and data equality",
+        "source_sha256": "1408fdfda57722576e9e5572735c0e8b89572bf2dc170986be6ba8ec7685d55c"
+      },
+      {
+        "checker": "theta222m_exact_base.py",
+        "status": "PASS exact regeneration and data equality",
+        "source_sha256": "351d8ef10bd81530d1df51db64b7430b379a68f459626549e2d21e28f802b2cd"
+      },
+      {
+        "checker": "check_parallel.py",
+        "status": "PASS exact regeneration and data equality",
+        "source_sha256": "562e3eb7f5ea3cc489863e278683d283815c87a0fc0bd3f1b88975cf6342b3cb"
+      }
+    ]
+  }
+}

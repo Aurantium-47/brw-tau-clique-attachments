@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "file": "certify_short_branch_core.py",
+      "original_sha256": "87ae5af4f04c929b7d779d053bbab4b82d23d2ab35820de2b7ffda5ecadbd611",
+      "packaged_sha256": "87ae5af4f04c929b7d779d053bbab4b82d23d2ab35820de2b7ffda5ecadbd611",
+      "change": "unchanged"
+    },
+    {
+      "file": "check_short_core.py",
+      "original_sha256": "886a5e27c6ac6e5adac27550c9e4243630b7f3a23ae2c681f47d5b7a97d06295",
+      "packaged_sha256": "361f232465189b9fbb50fcfd00e16ac10d2efd53fda426312858363741fdd34b",
+      "change": "Prefix one explicit __debug__ guard; no mathematical changes."
+    },
+    {
+      "file": "check_c5_substitution.py",
+      "original_sha256": "0e58dbf2ab9a0a6893d51c1d1e54adeddab3f432c8aa0cc7ce6e66eaaed4fc91",
+      "packaged_sha256": "1408fdfda57722576e9e5572735c0e8b89572bf2dc170986be6ba8ec7685d55c",
+      "change": "Prefix one explicit __debug__ guard; no mathematical changes."
+    },
+    {
+      "file": "theta222m_exact_base.py",
+      "original_sha256": "f86d9e221bebb873682557ff41eca60569b678c4b6ba2a95dd98264f9c0bd224",
+      "packaged_sha256": "351d8ef10bd81530d1df51db64b7430b379a68f459626549e2d21e28f802b2cd",
+      "change": "Prefix one explicit __debug__ guard; no mathematical changes."
+    },
+    {
+      "file": "check_parallel.py",
+      "original_sha256": "3f6e393ae46b827824f36683b747c851983f294b6ad71b81baae77bbf5a2b586",
+      "packaged_sha256": "562e3eb7f5ea3cc489863e278683d283815c87a0fc0bd3f1b88975cf6342b3cb",
+      "change": "Prefix one explicit __debug__ guard; no mathematical changes."
+    },
+    {
+      "file": "effective_cubic_certificate.py",
+      "original_sha256": "3ee8053c0b096b63c7ff7305fee49355835887a3702207f42b32105868cb4175",
+      "packaged_sha256": "3ee8053c0b096b63c7ff7305fee49355835887a3702207f42b32105868cb4175",
+      "change": "unchanged"
+    },
+    {
+      "file": "effective_mixed_certificate.py",
+      "change": "Same explicit __debug__ insertion already reviewed in preceding analytic certificate release; no mathematical changes.",
+      "original_sha256": "a086e5b137bdeef59d643631ee0168e8ad1ec5ebb9a5817510da1a8827f0fe76",
+      "packaged_sha256": "e59a2c9abff7e646965015a150c022e9dacc654b683e946762698c73af12c5a3"
+    }
+  ]
+}
