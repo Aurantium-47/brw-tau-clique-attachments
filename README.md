@@ -6,6 +6,8 @@ Exact mathematical proofs and reproducible computations toward ordinary **τ-rea
 
 - **Composition theorem for complete clique quotients.** The class with nonnegative-coefficient, real-nonpositive-rooted Bell quotients for **every actual clique size** is closed under graph join, disjoint union and ordinary clique amalgamation (exact common clique, no extra identifications or cross edges). A proved parameterized operator $C_{a,b}$ for integers $a,b\ge1$ supplies the join mechanism, extending the matching construction and coefficient substitution of [Kang–Liu–Sun–Zhang (2026)](https://arxiv.org/html/2609.07457v1); the other two closures follow from classical BRW Bell-product preservation. [Proof, scope and exact replay](extensions/2026-11-02-join-attachment-closure/README.md). This requires the stronger complete-quotient property, not ordinary τ-reality alone, and does not solve general BRW 6.5: bounded-$j$ seeds qualify only when their proved range covers the clique number. Historical novelty remains unassessed.
 
+- **Full clique-quotient closure under five-cycle substitution.** Replacing one vertex of $C_5$ by any nonempty graph with the complete clique-quotient property preserves that same property, with no input-degree or graph-order bound. An elementary residue/polytope argument proves the stronger all-degree $m=3$ operator theorem; see the [proof, independent AI review and exact replay](extensions/2026-11-02-c5-full-clique-closure/README.md). This strengthens the edge-output conclusion below under stronger input hypotheses and subsumes this project's earlier low-degree $m=3$ certificates. It does not establish full-clique substitution for every cycle length or the full BRW conjecture; historical novelty remains unassessed.
+
 - **Uniform cycle substitution.** For every $m\ge1$, replacing **one vertex** of $C_{m+2}$ by any ordinary τ-real graph $F$ preserves ordinary τ-reality and gives a Bell-real edge quotient. Thus the output is universally edge-attachable; the operation is iterable. With $D=d/dz$, $S=1+D$, $L_1=zD+z+1$, the operators $A_1=S^2$, $A_{m+1}=L_1A_m+DS$ preserve the entire nonpositive-root cone in every input degree. Root monotonicity and an enlarged arrowhead invariant give an ordinary mathematical proof, not finite-case extrapolation: simple strictly negative inputs give simple negative outputs with strict consecutive interlacing; nonzero boundary inputs give weak interlacing. [Proof at the published version](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/dc6d35ba53c6a41064bc9982cb524b05b74dc2ff/extensions/2026-11-02-uniform-cycle-substitution).
 
   Adding a universal $K_s$ to a seed $H$ with Bell-real edge quotient gives real-rooted clique quotients for orders $0\le j\le s+2$ and attachment along those clique sizes. This covers every clique only when $H$ is triangle-free; it does not give arbitrary larger-clique closure for general substituted graphs.
@@ -62,6 +64,9 @@ python3 extensions/2026-11-02-weighted-star-budget/verify_all.py
 
 # Complete clique-quotient composition: aggregate supporting exact replay
 python3 extensions/2026-11-02-join-attachment-closure/run_all.py
+
+# All-degree C5 full clique-quotient closure: guarded supporting exact replay
+python3 extensions/2026-11-02-c5-full-clique-closure/run_all.py
 
 # Initial missing-edge theorem and its original structural corollary
 python3 verify_all.py
