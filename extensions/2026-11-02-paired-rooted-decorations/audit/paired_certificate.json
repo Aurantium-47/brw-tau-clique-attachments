@@ -1,0 +1,311 @@
+[
+  {
+    "L": 5,
+    "N": 5,
+    "attachment_A": [
+      1,
+      []
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      5,
+      5
+    ],
+    "alpha_H": 2,
+    "bounded_j": 3,
+    "independent_board_checks": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "L": 7,
+    "N": 7,
+    "attachment_A": [
+      1,
+      []
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      7,
+      14,
+      7
+    ],
+    "alpha_H": 3,
+    "bounded_j": 4,
+    "independent_board_checks": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "L": 5,
+    "N": 7,
+    "attachment_A": [
+      2,
+      [
+        [
+          0,
+          1
+        ]
+      ]
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      7,
+      12,
+      3
+    ],
+    "alpha_H": 4,
+    "bounded_j": 4,
+    "independent_board_checks": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "L": 5,
+    "N": 9,
+    "attachment_A": [
+      3,
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      9,
+      25,
+      24,
+      7
+    ],
+    "alpha_H": 4,
+    "bounded_j": 5,
+    "independent_board_checks": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "L": 5,
+    "N": 11,
+    "attachment_A": [
+      4,
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      13,
+      57,
+      100,
+      68,
+      12
+    ],
+    "alpha_H": 6,
+    "bounded_j": 6,
+    "independent_board_checks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "L": 5,
+    "N": 11,
+    "attachment_A": [
+      4,
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ]
+      ]
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      11,
+      32,
+      15
+    ],
+    "alpha_H": 8,
+    "bounded_j": 6,
+    "independent_board_checks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "L": 5,
+    "N": 9,
+    "attachment_A": [
+      2,
+      [
+        [
+          0,
+          1
+        ]
+      ]
+    ],
+    "attachment_B": [
+      2,
+      [
+        [
+          0,
+          1
+        ]
+      ]
+    ],
+    "matching": [
+      1,
+      9,
+      23,
+      17,
+      3
+    ],
+    "alpha_H": 5,
+    "bounded_j": 5,
+    "independent_board_checks": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "L": 7,
+    "N": 13,
+    "attachment_A": [
+      3,
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    ],
+    "attachment_B": [
+      2,
+      [
+        [
+          0,
+          1
+        ]
+      ]
+    ],
+    "matching": [
+      1,
+      13,
+      61,
+      128,
+      123,
+      49,
+      6
+    ],
+    "alpha_H": 7,
+    "bounded_j": 7,
+    "independent_board_checks": []
+  },
+  {
+    "L": 5,
+    "N": 9,
+    "attachment_A": [
+      3,
+      [
+        [
+          1,
+          2
+        ]
+      ]
+    ],
+    "attachment_B": [
+      1,
+      []
+    ],
+    "matching": [
+      1,
+      7,
+      16,
+      15,
+      5
+    ],
+    "alpha_H": 4,
+    "bounded_j": 5,
+    "independent_board_checks": []
+  }
+]

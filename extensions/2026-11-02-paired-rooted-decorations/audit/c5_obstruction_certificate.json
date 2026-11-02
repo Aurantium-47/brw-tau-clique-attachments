@@ -1,0 +1,8 @@
+{
+  "nonisolated_five_edge_candidates": 1329,
+  "matching_equivalent_labeled_candidates": 24,
+  "rooted_equivalent_candidates": 0,
+  "patterns": {
+    "(2, 4, (1, 1, 1, 2, 2, 3))": 24
+  }
+}

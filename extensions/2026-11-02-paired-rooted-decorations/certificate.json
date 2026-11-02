@@ -1,0 +1,3380 @@
+{
+  "paired_cases": 15,
+  "quotient_cases": 97,
+  "records": [
+    {
+      "cycle": 5,
+      "decorations": [
+        "trivial",
+        "trivial"
+      ],
+      "original_n": 5,
+      "surrogate_n": 6,
+      "parts": [
+        2,
+        4
+      ],
+      "matching_counts": [
+        1,
+        5,
+        5
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            4,
+            26,
+            32,
+            11,
+            1
+          ],
+          "exact_nonpositive_roots": 4,
+          "direct_board": true
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            4,
+            11,
+            7,
+            1
+          ],
+          "exact_nonpositive_roots": 3,
+          "direct_board": true
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            2,
+            3,
+            1
+          ],
+          "exact_nonpositive_roots": 2,
+          "direct_board": true
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "leaf",
+        "trivial"
+      ],
+      "original_n": 7,
+      "surrogate_n": 8,
+      "parts": [
+        3,
+        5
+      ],
+      "matching_counts": [
+        1,
+        7,
+        12,
+        3
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            150,
+            1218,
+            2037,
+            1189,
+            287,
+            29,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": true
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            150,
+            534,
+            501,
+            172,
+            23,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": true
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            75,
+            153,
+            87,
+            17,
+            1
+          ],
+          "exact_nonpositive_roots": 4,
+          "direct_board": true
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            25,
+            32,
+            11,
+            1
+          ],
+          "exact_nonpositive_roots": 3,
+          "direct_board": true
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "trivial",
+        "leaf"
+      ],
+      "original_n": 7,
+      "surrogate_n": 8,
+      "parts": [
+        3,
+        5
+      ],
+      "matching_counts": [
+        1,
+        7,
+        12,
+        4
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            144,
+            1200,
+            2028,
+            1188,
+            287,
+            29,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": true
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            144,
+            528,
+            500,
+            172,
+            23,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": true
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            72,
+            152,
+            87,
+            17,
+            1
+          ],
+          "exact_nonpositive_roots": 4,
+          "direct_board": true
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            24,
+            32,
+            11,
+            1
+          ],
+          "exact_nonpositive_roots": 3,
+          "direct_board": true
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "leaf",
+        "leaf"
+      ],
+      "original_n": 9,
+      "surrogate_n": 10,
+      "parts": [
+        4,
+        6
+      ],
+      "matching_counts": [
+        1,
+        9,
+        23,
+        17,
+        3
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            9552,
+            94488,
+            202416,
+            163568,
+            61378,
+            11689,
+            1150,
+            55,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": true
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            9552,
+            42468,
+            53316,
+            27563,
+            6763,
+            821,
+            47,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": true
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            4776,
+            12564,
+            10188,
+            3475,
+            548,
+            39,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": true
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            1592,
+            2743,
+            1489,
+            331,
+            31,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": true
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            398,
+            469,
+            170,
+            23,
+            1
+          ],
+          "exact_nonpositive_roots": 4,
+          "direct_board": true
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "path3_end",
+        "trivial"
+      ],
+      "original_n": 9,
+      "surrogate_n": 10,
+      "parts": [
+        4,
+        6
+      ],
+      "matching_counts": [
+        1,
+        9,
+        25,
+        24,
+        7
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            10248,
+            99312,
+            209304,
+            167032,
+            62107,
+            11754,
+            1152,
+            55,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": true
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            10248,
+            44532,
+            54924,
+            28027,
+            6816,
+            823,
+            47,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": true
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            5124,
+            13136,
+            10447,
+            3516,
+            550,
+            39,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": true
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            1708,
+            2857,
+            1518,
+            333,
+            31,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": true
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            427,
+            486,
+            172,
+            23,
+            1
+          ],
+          "exact_nonpositive_roots": 4,
+          "direct_board": true
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "path3_middle",
+        "trivial"
+      ],
+      "original_n": 9,
+      "surrogate_n": 10,
+      "parts": [
+        4,
+        6
+      ],
+      "matching_counts": [
+        1,
+        9,
+        21,
+        8
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            9120,
+            90960,
+            196800,
+            160520,
+            60700,
+            11626,
+            1148,
+            55,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": true
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            9120,
+            40920,
+            51960,
+            27140,
+            6712,
+            819,
+            47,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": true
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            4560,
+            12120,
+            9960,
+            3436,
+            546,
+            39,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": true
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            1520,
+            2650,
+            1462,
+            329,
+            31,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": true
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            380,
+            454,
+            168,
+            23,
+            1
+          ],
+          "exact_nonpositive_roots": 4,
+          "direct_board": true
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "star4_center",
+        "leaf"
+      ],
+      "original_n": 13,
+      "surrogate_n": 14,
+      "parts": [
+        6,
+        8
+      ],
+      "matching_counts": [
+        1,
+        13,
+        51,
+        61,
+        15
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            123621120,
+            1696222080,
+            5310869760,
+            6690257280,
+            4249183680,
+            1529258976,
+            333165504,
+            45544128,
+            3958674,
+            216789,
+            7190,
+            131,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            123621120,
+            786300480,
+            1508189760,
+            1295516880,
+            590733360,
+            156420936,
+            25249224,
+            2536863,
+            157979,
+            5881,
+            119,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            61810560,
+            241496640,
+            316673280,
+            195768720,
+            65827440,
+            12941928,
+            1538412,
+            110939,
+            4704,
+            107,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            20603520,
+            55223280,
+            52290000,
+            23913120,
+            5987760,
+            869271,
+            74349,
+            3659,
+            95,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            5150880,
+            10014480,
+            7045920,
+            2409600,
+            447270,
+            46889,
+            2746,
+            83,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            1030176,
+            1497384,
+            792648,
+            202119,
+            27239,
+            1965,
+            71,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            171696,
+            189384,
+            75408,
+            14079,
+            1316,
+            59,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "star4_leaf",
+        "leaf"
+      ],
+      "original_n": 13,
+      "surrogate_n": 14,
+      "parts": [
+        6,
+        8
+      ],
+      "matching_counts": [
+        1,
+        13,
+        59,
+        113,
+        87,
+        20
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            136584000,
+            1839216960,
+            5663982240,
+            7033195680,
+            4412453640,
+            1571746680,
+            339543148,
+            46105132,
+            3986934,
+            217537,
+            7198,
+            131,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            136584000,
+            851316480,
+            1604221920,
+            1357243440,
+            611042040,
+            160117440,
+            25632244,
+            2559111,
+            158647,
+            5889,
+            119,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            68292000,
+            261008160,
+            335803440,
+            204288000,
+            67792340,
+            13189300,
+            1555368,
+            111527,
+            4712,
+            107,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            22764000,
+            59561040,
+            55248480,
+            24839920,
+            6136060,
+            881655,
+            74857,
+            3667,
+            95,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            5691000,
+            10774008,
+            7412412,
+            2489644,
+            455802,
+            47317,
+            2754,
+            83,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            1138200,
+            1605968,
+            829492,
+            207519,
+            27587,
+            1973,
+            71,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            189700,
+            202324,
+            78396,
+            14347,
+            1324,
+            59,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "cycle4",
+        "trivial"
+      ],
+      "original_n": 11,
+      "surrogate_n": 12,
+      "parts": [
+        5,
+        7
+      ],
+      "matching_counts": [
+        1,
+        13,
+        57,
+        100,
+        68,
+        12
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            753120,
+            8975520,
+            23977440,
+            25202880,
+            12983940,
+            3653916,
+            592576,
+            56252,
+            3054,
+            87,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            753120,
+            4111200,
+            6622080,
+            4645200,
+            1667748,
+            331028,
+            37364,
+            2361,
+            77,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            376560,
+            1244880,
+            1344300,
+            660180,
+            167928,
+            23300,
+            1758,
+            67,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            125520,
+            279840,
+            212892,
+            74548,
+            13340,
+            1245,
+            57,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            31380,
+            49692,
+            27200,
+            6764,
+            822,
+            47,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            6276,
+            7236,
+            2852,
+            489,
+            37,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "trivial",
+        "cycle4"
+      ],
+      "original_n": 11,
+      "surrogate_n": 12,
+      "parts": [
+        5,
+        7
+      ],
+      "matching_counts": [
+        1,
+        13,
+        57,
+        104,
+        76,
+        16
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            738240,
+            8866560,
+            23806560,
+            25103680,
+            12958040,
+            3650672,
+            592388,
+            56248,
+            3054,
+            87,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            738240,
+            4064160,
+            6580800,
+            4630720,
+            1665464,
+            330868,
+            37360,
+            2361,
+            77,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            369120,
+            1231680,
+            1337280,
+            658688,
+            167796,
+            23296,
+            1758,
+            67,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            123040,
+            277160,
+            212024,
+            74444,
+            13336,
+            1245,
+            57,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            30760,
+            49280,
+            27124,
+            6760,
+            822,
+            47,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            6152,
+            7188,
+            2848,
+            489,
+            37,
+            1
+          ],
+          "exact_nonpositive_roots": 5,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "decorations": [
+        "cycle6",
+        "leaf"
+      ],
+      "original_n": 17,
+      "surrogate_n": 18,
+      "parts": [
+        8,
+        10
+      ],
+      "matching_counts": [
+        1,
+        19,
+        142,
+        538,
+        1109,
+        1239,
+        708,
+        184,
+        16
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            5590415980800,
+            97691726119680,
+            399792370561920,
+            678143142445440,
+            600352172589120,
+            313742058907200,
+            104293315876064,
+            23138015294176,
+            3534520526782,
+            378928681226,
+            28771439877,
+            1546398945,
+            58158741,
+            1489944,
+            24667,
+            237,
+            1
+          ],
+          "exact_nonpositive_roots": 16,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            5590415980800,
+            46050655069440,
+            117913905164160,
+            140057309320320,
+            92058972653760,
+            36947181042240,
+            9620876404832,
+            1689642361168,
+            204986462846,
+            17394221838,
+            1034292549,
+            42675533,
+            1191016,
+            21352,
+            221,
+            1
+          ],
+          "exact_nonpositive_roots": 15,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            2795207990400,
+            14418482359680,
+            25873855701120,
+            22836690723840,
+            11537046988320,
+            3630019150560,
+            748857156784,
+            104531689376,
+            10045477347,
+            668067681,
+            30518739,
+            935138,
+            18277,
+            205,
+            1
+          ],
+          "exact_nonpositive_roots": 14,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            931735996800,
+            3371686590720,
+            4500433822080,
+            3056042816960,
+            1211572024480,
+            302305890760,
+            49616807336,
+            5491488204,
+            413999013,
+            21172389,
+            718950,
+            15442,
+            189,
+            1
+          ],
+          "exact_nonpositive_roots": 13,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            232933999200,
+            627750518304,
+            645447217296,
+            344370799952,
+            108400153066,
+            21545081966,
+            2807172537,
+            244028697,
+            14164193,
+            539092,
+            12847,
+            173,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            46586799840,
+            96860619744,
+            78369513936,
+            33250160752,
+            8349999146,
+            1319508282,
+            135242205,
+            9065541,
+            392204,
+            10492,
+            157,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            7764466640,
+            12728021872,
+            8205186508,
+            2782774916,
+            556722423,
+            69344169,
+            5491503,
+            274926,
+            8377,
+            141,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 8,
+          "coefficients_ascending": [
+            1109209520,
+            1452351544,
+            750314996,
+            203245992,
+            32134221,
+            3100829,
+            183898,
+            6502,
+            125,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 9,
+          "coefficients_ascending": [
+            138651190,
+            145966706,
+            60434829,
+            12982833,
+            1595949,
+            115760,
+            4867,
+            109,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 7,
+      "decorations": [
+        "leaf",
+        "path3_middle",
+        "trivial"
+      ],
+      "original_n": 13,
+      "surrogate_n": 14,
+      "parts": [
+        6,
+        8
+      ],
+      "matching_counts": [
+        1,
+        13,
+        57,
+        98,
+        63,
+        12
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            133842240,
+            1808170560,
+            5585539680,
+            6955452000,
+            4374762840,
+            1561776552,
+            338024148,
+            45969684,
+            3980025,
+            217352,
+            7196,
+            131,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            133842240,
+            837164160,
+            1582791840,
+            1343165040,
+            606319560,
+            159242832,
+            25540188,
+            2553687,
+            158482,
+            5887,
+            119,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            66921120,
+            256747680,
+            331511040,
+            202330800,
+            67331460,
+            13130196,
+            1551249,
+            111382,
+            4710,
+            107,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            22307040,
+            58610160,
+            54580176,
+            24625104,
+            6100908,
+            878661,
+            74732,
+            3665,
+            95,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            5576760,
+            10606680,
+            7328916,
+            2470884,
+            453753,
+            47212,
+            2752,
+            83,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            1115352,
+            1581888,
+            821004,
+            206235,
+            27502,
+            1971,
+            71,
+            1
+          ],
+          "exact_nonpositive_roots": 7,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            185892,
+            199428,
+            77697,
+            14282,
+            1322,
+            59,
+            1
+          ],
+          "exact_nonpositive_roots": 6,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 7,
+      "decorations": [
+        "cycle4",
+        "path3_end",
+        "leaf"
+      ],
+      "original_n": 19,
+      "surrogate_n": 20,
+      "parts": [
+        9,
+        11
+      ],
+      "matching_counts": [
+        1,
+        21,
+        177,
+        777,
+        1935,
+        2793,
+        2279,
+        960,
+        160
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            1772560371456000,
+            34422958107417600,
+            157748750662809600,
+            302223613534617600,
+            305170776632736000,
+            183964781212732800,
+            71472986021525760,
+            18821681436044160,
+            3476719917117360,
+            461055126506200,
+            44548747153840,
+            3160491240432,
+            164771224622,
+            6270704097,
+            171388710,
+            3262839,
+            40926,
+            303,
+            1
+          ],
+          "exact_nonpositive_roots": 18,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            1772560371456000,
+            16325198867980800,
+            47141183931609600,
+            63770607400752000,
+            48280033846396800,
+            22614124561056000,
+            6979837351495680,
+            1480230510568560,
+            221832156283200,
+            23922297022300,
+            1875131830140,
+            107113284191,
+            4435226187,
+            131105565,
+            2685543,
+            36081,
+            285,
+            1
+          ],
+          "exact_nonpositive_roots": 17,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            886280185728000,
+            5146306227417600,
+            10498719426048000,
+            10654377594940800,
+            6270942708576000,
+            2334740264640000,
+            580637135856960,
+            99954819412400,
+            12187733687080,
+            1066778485020,
+            67362778760,
+            3057731187,
+            98392500,
+            2180871,
+            31542,
+            267,
+            1
+          ],
+          "exact_nonpositive_roots": 16,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            295426728576000,
+            1212719874710400,
+            1857199910267520,
+            1466196280778880,
+            686392346828160,
+            206043489726480,
+            41621516236720,
+            5833330317568,
+            577673033592,
+            40758787619,
+            2046460857,
+            72233595,
+            1743927,
+            27309,
+            249,
+            1
+          ],
+          "exact_nonpositive_roots": 15,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            73856682144000,
+            227772638513280,
+            271571211959040,
+            170660724117120,
+            64466452838880,
+            15730781876400,
+            2589073436032,
+            294932443776,
+            23561715818,
+            1322851677,
+            51686370,
+            1369815,
+            23382,
+            231,
+            1
+          ],
+          "exact_nonpositive_roots": 14,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            14771336428800,
+            35500217014080,
+            33724427849280,
+            17117037033480,
+            5261046200600,
+            1046973567580,
+            140190897132,
+            12895128887,
+            820506687,
+            35881785,
+            1053639,
+            19761,
+            213,
+            1
+          ],
+          "exact_nonpositive_roots": 13,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            2461889404800,
+            4719761087040,
+            3625583345280,
+            1499050409800,
+            376199579080,
+            60979453500,
+            6600953636,
+            484167327,
+            24024240,
+            790503,
+            16446,
+            195,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 8,
+          "coefficients_ascending": [
+            351698486400,
+            546007825080,
+            342175057800,
+            115687535200,
+            23682913080,
+            3108045035,
+            268685277,
+            15391575,
+            575511,
+            13437,
+            177,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 9,
+          "coefficients_ascending": [
+            43962310800,
+            55782834920,
+            28639222288,
+            7913482992,
+            1314119174,
+            137994297,
+            9335070,
+            403767,
+            10734,
+            159,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 10,
+          "coefficients_ascending": [
+            4884701200,
+            5089813372,
+            2140855356,
+            481052303,
+            64082067,
+            5279445,
+            270375,
+            8337,
+            141,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 9,
+      "decorations": [
+        "trivial",
+        "leaf",
+        "trivial",
+        "star4_leaf"
+      ],
+      "original_n": 17,
+      "surrogate_n": 18,
+      "parts": [
+        8,
+        10
+      ],
+      "matching_counts": [
+        1,
+        17,
+        113,
+        373,
+        639,
+        538,
+        188,
+        16
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            6506076971520,
+            112472433722880,
+            455436115464960,
+            764551409690880,
+            669989288868480,
+            346650310008576,
+            114106314216384,
+            25071926597568,
+            3793774127004,
+            402945015524,
+            30315337042,
+            1614720182,
+            60190158,
+            1528525,
+            25088,
+            239,
+            1
+          ],
+          "exact_nonpositive_roots": 16,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            6506076971520,
+            52983178375680,
+            134150979029760,
+            157600107665280,
+            102477836240640,
+            40695412294656,
+            10487271703104,
+            1823081861808,
+            218965807244,
+            18397920828,
+            1083401474,
+            44276559,
+            1224123,
+            21743,
+            223,
+            1
+          ],
+          "exact_nonpositive_roots": 15,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            3253038485760,
+            16576713296640,
+            29393566433280,
+            25641308246400,
+            12806087999040,
+            3984189185088,
+            812885314752,
+            112244060784,
+            10672174646,
+            702340562,
+            31755076,
+            963191,
+            18638,
+            207,
+            1
+          ],
+          "exact_nonpositive_roots": 14,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            1084346161920,
+            3873091783680,
+            5104094929920,
+            3422868886080,
+            1340459873280,
+            330466163976,
+            53602127864,
+            5864193292,
+            437089214,
+            22104279,
+            742369,
+            15773,
+            191,
+            1
+          ],
+          "exact_nonpositive_roots": 13,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            271086540480,
+            720401048640,
+            730615646880,
+            384607605600,
+            119481533460,
+            23442736724,
+            3015939114,
+            258932198,
+            14846418,
+            558297,
+            13148,
+            175,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            54217308096,
+            111030623424,
+            88512146208,
+            37011932424,
+            9163289004,
+            1427944772,
+            144363122,
+            9547423,
+            407615,
+            10763,
+            159,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            9036218016,
+            14570629344,
+            9242689608,
+            3085471424,
+            607781758,
+            74560274,
+            5816904,
+            286963,
+            8618,
+            143,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 8,
+          "coefficients_ascending": [
+            1290888288,
+            1659967632,
+            842524664,
+            224294676,
+            34862462,
+            3308151,
+            192981,
+            6713,
+            127,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        },
+        {
+          "j": 9,
+          "coefficients_ascending": [
+            161361036,
+            166511844,
+            67601282,
+            14244854,
+            1718134,
+            122309,
+            5048,
+            111,
+            1
+          ],
+          "exact_nonpositive_roots": 8,
+          "direct_board": false
+        }
+      ]
+    },
+    {
+      "cycle": 11,
+      "decorations": [
+        "leaf",
+        "trivial",
+        "path3_middle",
+        "trivial",
+        "leaf"
+      ],
+      "original_n": 19,
+      "surrogate_n": 20,
+      "parts": [
+        9,
+        11
+      ],
+      "matching_counts": [
+        1,
+        19,
+        142,
+        528,
+        1014,
+        933,
+        312
+      ],
+      "checks": [
+        {
+          "j": 1,
+          "coefficients_ascending": [
+            2007635095065600,
+            38699333927654400,
+            176047361768678400,
+            334838061010252800,
+            335679330741955200,
+            200919412779845760,
+            77510938757091840,
+            20269344428087040,
+            3718225127639880,
+            489695595709320,
+            46993430659032,
+            3311340610968,
+            171473085303,
+            6482051091,
+            175984614,
+            3328112,
+            41469,
+            305,
+            1
+          ],
+          "exact_nonpositive_roots": 18,
+          "direct_board": false
+        },
+        {
+          "j": 2,
+          "coefficients_ascending": [
+            2007635095065600,
+            18345849416294400,
+            52567170784128000,
+            70567722556531200,
+            53022321637084800,
+            24649515190460160,
+            7551631938090240,
+            1589714061249600,
+            236501229598920,
+            25319436611040,
+            1970363095272,
+            111748126308,
+            4594227615,
+            134844534,
+            2742672,
+            36590,
+            287,
+            1
+          ],
+          "exact_nonpositive_roots": 17,
+          "direct_board": false
+        },
+        {
+          "j": 3,
+          "coefficients_ascending": [
+            1003817547532800,
+            5780677289587200,
+            11696623373635200,
+            11774219836579200,
+            6874683633417600,
+            2539261651006080,
+            626546285885520,
+            107018641707120,
+            12948258789180,
+            1124652529260,
+            70475880501,
+            3174788139,
+            101388534,
+            2230400,
+            32017,
+            269,
+            1
+          ],
+          "exact_nonpositive_roots": 16,
+          "direct_board": false
+        },
+        {
+          "j": 4,
+          "coefficients_ascending": [
+            334605849177600,
+            1361517860102400,
+            2067021102706560,
+            1617866455645440,
+            750973882538880,
+            223535971058400,
+            44778923869680,
+            6223971783744,
+            611298818676,
+            42779475882,
+            2130492663,
+            74592534,
+            1786400,
+            27750,
+            251,
+            1
+          ],
+          "exact_nonpositive_roots": 15,
+          "direct_board": false
+        },
+        {
+          "j": 5,
+          "coefficients_ascending": [
+            83651462294400,
+            255573279561600,
+            301907970524160,
+            187994069303040,
+            70372476654480,
+            17018166044880,
+            2776075782480,
+            313445091024,
+            24821143971,
+            1381410147,
+            53505894,
+            1405776,
+            23789,
+            233,
+            1
+          ],
+          "exact_nonpositive_roots": 14,
+          "direct_board": false
+        },
+        {
+          "j": 6,
+          "coefficients_ascending": [
+            16730292458880,
+            39807164517120,
+            37442972286720,
+            18818887127040,
+            5728176614160,
+            1128998943072,
+            149734258128,
+            13642569408,
+            859890351,
+            37251414,
+            1083632,
+            20134,
+            215,
+            1
+          ],
+          "exact_nonpositive_roots": 13,
+          "direct_board": false
+        },
+        {
+          "j": 7,
+          "coefficients_ascending": [
+            2788382076480,
+            5288397491520,
+            4019321849400,
+            1644396141960,
+            408378047220,
+            65510990532,
+            7018605633,
+            509535675,
+            25025334,
+            815072,
+            16785,
+            197,
+            1
+          ],
+          "exact_nonpositive_roots": 12,
+          "direct_board": false
+        },
+        {
+          "j": 8,
+          "coefficients_ascending": [
+            398340296640,
+            611257149360,
+            378673855560,
+            126572228640,
+            25618710780,
+            3324356646,
+            284172999,
+            16097334,
+            595200,
+            13742,
+            179,
+            1
+          ],
+          "exact_nonpositive_roots": 11,
+          "direct_board": false
+        },
+        {
+          "j": 9,
+          "coefficients_ascending": [
+            49792537080,
+            62384956920,
+            31628889864,
+            8631212616,
+            1415624847,
+            146825523,
+            9810534,
+            419120,
+            11005,
+            161,
+            1
+          ],
+          "exact_nonpositive_roots": 10,
+          "direct_board": false
+        },
+        {
+          "j": 10,
+          "coefficients_ascending": [
+            5532504120,
+            5685245280,
+            2358513144,
+            522724956,
+            68684607,
+            5581494,
+            281936,
+            8574,
+            143,
+            1
+          ],
+          "exact_nonpositive_roots": 9,
+          "direct_board": false
+        }
+      ]
+    }
+  ],
+  "rooted_C5_obstruction": {
+    "examined_labeled_graphs": 189,
+    "matching_equivalent_graphs": [
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            3,
+            2
+          ],
+          [
+            1,
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "n": 6,
+        "a": 2,
+        "edges": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            5
+          ]
+        ],
+        "root_deleted_counts": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            3
+          ],
+          [
+            1,
+            4,
+            2
+          ],
+          [
+            1,
+            3,
+            2
+          ]
+        ]
+      }
+    ]
+  }
+}

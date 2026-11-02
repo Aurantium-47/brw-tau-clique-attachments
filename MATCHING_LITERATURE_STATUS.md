@@ -1,0 +1,17 @@
+# Matching-quotient literature status
+
+Checked 2 November 2026. This attribution note supplements the co-bipartite and odd-cycle-complement extensions; it changes no mathematical statement, proof file or certificate. Like `LITERATURE_STATUS.md`, it is a separate root provenance note, outside the initial-package `ALLOWLIST.txt`, `MANIFEST.json` and `SHA256SUMS` scope.
+
+## Classical ingredients
+
+**E. J. Farrell and Earl Glen Whitehead, Jr., “Connections between the matching and chromatic polynomials,” International Journal of Mathematics and Mathematical Sciences 15(4) (1992), 757–766.** Theorem 1 and Corollary 1.1 (p. 759) identify the matching vector of a triangle-free complement with the chromatic falling-factorial coefficient vector. Theorem 3 (p. 760) gives forbidden-edge inclusion–exclusion; Corollary 3.2 (p. 761) specializes it to a rectangular complete bipartite board. Theorem 7 (pp. 761–762) permits matching-equivalent surrogates of different vertex orders in the complement-chromatic conversion. These are classical ingredients of the present construction, not new identities asserted here. [Inspected original paper](https://www.maths.tcd.ie/EMIS/journals/HOA/IJMMS/Volume15_4/213850.pdf) · [DOI: 10.1155/S016117129200098X](https://doi.org/10.1155/S016117129200098X).
+
+**Haicheng Ma and Yinkui Li, “The Matching Equivalence Graphs with the Maximum Matching Root Less than or Equal to 2,” Applied Mathematics 7 (2016), 920–926.** Lemma 3.2(2), p. 923, gives the cycle/fork identity explicitly. Their tree has three arms of lengths 1, 1 and n; setting n=L−2 gives exactly the relation used here, μ(D_(L+1),x)=x μ(C_L,x), hence identical matching counts. The fork identity is therefore known, not a new contribution of the odd-cycle note. This citation establishes a prior occurrence, not earliest priority. [Inspected original paper](https://file.scirp.org/pdf/am_2016052713401572.pdf) · [DOI: 10.4236/am.2016.79082](https://doi.org/10.4236/am.2016.79082).
+
+## What the comparison does and does not establish
+
+The repository combines these ingredients with the Bell transform of rising-factorial quotients and matching-polynomial real-rootedness to obtain the stated quotient and ordinary τ-real attachment conclusions. An equivalent published **combined Bell-quotient or universal-attachment theorem for these exact families was not located in this bounded audit**. That negative search result is not evidence of novelty or non-overlap. Earlier BRW Proposition 5.13 already supplies a quotient-based sufficient clique-attachment mechanism; no claim that these families fail its criterion is made. [BRW original paper](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8B66867EF89BFB7C22DDD36E718D8157/S0008414X00045016a.pdf/location-of-zeros-of-chromatic-and-related-polynomials-of-graphs.pdf).
+
+The full text of Mu–Shen–Xu, [DOI: 10.1142/S179383092550185X](https://doi.org/10.1142/S179383092550185X), remains unavailable for comparison; its exact overlap is unresolved. See the [existing literature-status note](LITERATURE_STATUS.md). A potentially related 2017 matching-equivalence construction paper was also inaccessible in this audit, so its overlap was not excluded. No access-control bypass was attempted.
+
+This is a scoped, AI-assisted literature comparison, not a comprehensive historical survey, human peer review, or proof-assistant certification. The sealed extension files remain unchanged; this note records attribution and uncertainty alongside them.

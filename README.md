@@ -16,6 +16,10 @@ Exact mathematical proofs and reproducible computations toward ordinary **τ-rea
 
   **Odd-cycle complements and matching surrogates.** For $G=\overline{C_{2m+1}}$, every $m\ge2$ and $1\le j\le m+1$, the Bell quotient $B(P_G/R_j)$ has only real nonpositive roots, where $R_j=x(x+1)\cdots(x+j-1)$. A matching-equivalent bipartite fork tree proves the result, giving attachment along every actual clique of $G$: those cliques have size at most $m$, so the additional algebraic quotient at $j=m+1$ does **not** assert an $(m+1)$-clique. Disjoint unions of bipartite components and odd cycles of length at least five also admit a bounded quotient range (see the precise component bound in the note), not arbitrary clique closure or trees attached directly to cycle vertices. [Proof, independent AI review and exact replay](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/9f1780659a475700dcfe9bfe913deb4ca1a19d55/extensions/2026-11-02-odd-cycle-complements). The 88 odd-cycle and 39 component checks support the infinite-family proof; they do not replace it. No general BRW closure or historical-novelty claim is made.
 
+  **Paired rooted decorations.** For the complement of an odd cycle of length at least five with reflection-paired rooted connected bipartite decorations and an undecorated axis vertex, original order $N=2s+1$ guarantees real-rooted Bell quotients and attachment along its cliques of sizes $1\le j\le s+1$, not all larger cliques; see the [precise construction and proof](extensions/2026-11-02-paired-rooted-decorations/README.md). The exact obstruction to a rooted bipartite matching surrogate for rooted $C_5$ limits this method, not BRW real-rootedness.
+
+  The matching/chromatic encoding and rectangular-board inclusion–exclusion are classical (Farrell–Whitehead, 1992), as is the cycle/fork identity (explicitly in Ma–Li, 2016); see the [matching-literature attribution and unresolved-overlap note](MATCHING_LITERATURE_STATUS.md).
+
 - **Anchored incomparability graphs.** A proper partition into $k$ nonempty independent classes, with one selected vertex in each class adjacent to every vertex outside its class, gives real-rooted clique quotients of orders $0$ through $k$, provided the graph is an incomparability graph. These hypotheses require more than a dominating clique. [Precise theorem and verification package at the published version](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/1ecaf2df19a751422a4672a4ccb30aefe8f73f51/extensions/2026-11-02).
 
 - **Complete bipartite graphs minus one edge.** For every $a,b\ge2$, $K_{a,b}-e$ has a real-rooted Bell edge quotient and universal complete-intersection attachment. The initial structural corollary concerns a join with one distinguished edge removed and requires stronger first-quotient hypotheses on its inputs; its attachment conclusion is also limited to clique sizes at most two. [Initial mathematical manuscript](manuscript.md) · [PDF](manuscript.pdf) · [immutable initial release](https://github.com/Aurantium-47/brw-tau-clique-attachments/tree/07ff23038f18c4a444555de037e135fc4aead7e0).
@@ -39,6 +43,9 @@ python3 extensions/2026-11-02-cobipartite-matching/verify.py
 # Odd-cycle complements: supporting checks; the second also replays the first
 python3 extensions/2026-11-02-odd-cycle-complements/verify.py
 python3 extensions/2026-11-02-odd-cycle-complements/check_components.py
+
+# Paired rooted decorations: supporting exact checks and rooted-surrogate obstruction
+python3 extensions/2026-11-02-paired-rooted-decorations/verify.py
 
 # Initial missing-edge theorem and its original structural corollary
 python3 verify_all.py
